@@ -11,7 +11,7 @@ If there is anything unclear or out of date, please submit a pull request to the
 {% hint style="info" %}
 **For community translations of the documentation see:**
 
-[Chinese](https://darktu.gitbook.io/gyroscope/) | [Spanish](https://jbaron.gitbook.io/gyroscope/informacion-general/introduccion) | [Russian](https://glebsh111.gitbook.io/gyroscope-protocol/obzor-gyroscope/vvedenie) | other
+[Chinese](https://darktu.gitbook.io/gyroscope/) | [Spanish](https://jbaron.gitbook.io/gyroscope/informacion-general/introduccion) | [Russian](https://glebsh111.gitbook.io/gyroscope-protocol/obzor-gyroscope/vvedenie) | [Japanese](https://mozuku.gitbook.io/jairosukpupurotokoru/) | other
 {% endhint %}
 
 ## The Gyroscope protocol
