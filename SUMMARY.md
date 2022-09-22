@@ -28,6 +28,7 @@
   * [What are use cases of Gyroscope?](gyroscope-protocol/faq/gyroscope-use-cases.md)
   * [Gyroscope & Academia](gyroscope-protocol/faq/research.md)
   * [Classical FAQ](gyroscope-protocol/faq/classical-faq.md)
+* [Audit Reports](gyroscope-protocol/audit-reports.md)
 
 ## Governance
 
