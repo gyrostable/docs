@@ -16,7 +16,7 @@ The shape of the PAMM (i.e., the bonding curves that quote prices to mint/ redee
 
 The stylized PAMM redemption curve for different reserve ratio levels is shown below, against the example of a 50-50 Uniswap pool.
 
-![](<../../../.gitbook/assets/Stylized PAMM Redemption Curve v3.png>)
+<figure><img src="../../../.gitbook/assets/Graph 2 v2.png" alt=""><figcaption></figcaption></figure>
 
 ### Examples and further explanations
 

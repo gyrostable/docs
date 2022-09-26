@@ -17,6 +17,6 @@ With healthy reserves, SAMM liquidity is concentrated within a narrow band. If t
 
 The stylized SAMM redemption curve is shown below against the example of a 50-50 Uniswap pool.
 
-![](../../../.gitbook/assets/Stylized\_SAMM\_Redemption\_Curve\_v4.png)
+<figure><img src="../../../.gitbook/assets/Graph 1 v2.png" alt=""><figcaption></figcaption></figure>
 
 SAMM designs incorporate optimized bonding curve shapes and virtual reserve mechanisms. These are fully specified, formally characterized, and optimized in our SAMM technical paper, which will be released soon. See the white paper Section 3.5 for some further details.
