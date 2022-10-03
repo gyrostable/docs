@@ -27,3 +27,9 @@ Some fundamental mathematical tools used in the derivation of all our CLPs.
 {% file src="../.gitbook/assets/3-CLP Numerical Guarantees.pdf" %}
 Numerical analysis of the 3-CLP implementation, focusing on non-overflow and accuracy guarantees for the Newton iteration.
 {% endfile %}
+
+## DSM
+
+{% embed url="https://github.com/gyrostable/technical-papers/blob/main/P-AMM/P-AMM%20tehnical%20paper.pdf" %}
+Technical paper describing the DSM mechanism
+{% endembed %}
