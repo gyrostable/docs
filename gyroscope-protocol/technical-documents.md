@@ -30,7 +30,7 @@ Numerical analysis of the 3-CLP implementation, focusing on non-overflow and acc
 
 ## DSM
 
-{% embed url="https://github.com/gyrostable/technical-papers/blob/main/P-AMM/P-AMM%20tehnical%20paper.pdf" %}
+{% embed url="https://github.com/gyrostable/technical-papers/blob/main/P-AMM/P-AMM%20technical%20paper.pdf" %}
 Technical paper describing the DSM mechanism
 {% endembed %}
 
