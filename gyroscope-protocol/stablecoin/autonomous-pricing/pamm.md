@@ -32,4 +32,4 @@ In that case, the bonding curve of the redemption market provides _**decreasing 
 
 Importantly, even if stablecoin holders decide to exit, Gyroscope provides _**rational reasons to bet on the stablecoin returning to its target price**_, as the redemption price autonomously recovers back toward peg as outflows equilibrate back toward zero or the reserve recovers (e.g., through yield).
 
-The PAMM design is fully specified, formally characterized, and optimized in our PAMM technical paper, which will be released soon. See the [white paper](https://github.com/gyrostable/gyroscope-landing/tree/master/pdfs) Sections 3.1 (minting curve) and 3.4 (redemption curve) for currently released details.
+The PAMM design is fully specified, formally characterized, and optimized in our [PAMM technical paper](https://github.com/gyrostable/technical-papers/blob/main/P-AMM/P-AMM%20technical%20paper.pdf).
