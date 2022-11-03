@@ -12,8 +12,8 @@ In effect, multiple consistency checks are applied that reference multiple, deep
 
 To read about the mathematical specification and implementation, see the section below.
 
-{% content-ref url="../technical-documents.md" %}
-[technical-documents.md](../technical-documents.md)
+{% content-ref url="../technical-documents/" %}
+[technical-documents](../technical-documents/)
 {% endcontent-ref %}
 
 ## Data Sources

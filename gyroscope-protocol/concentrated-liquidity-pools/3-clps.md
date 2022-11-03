@@ -62,8 +62,8 @@ For example, if the price of one of the assets drops to a sufficiently low level
 
 To read about the mathematical specification and implementation, see the below resources
 
-{% content-ref url="../technical-documents.md" %}
-[technical-documents.md](../technical-documents.md)
+{% content-ref url="../technical-documents/" %}
+[technical-documents](../technical-documents/)
 {% endcontent-ref %}
 
 ## Notes

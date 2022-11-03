@@ -60,8 +60,8 @@ In the case of a price jump, more arbitrage is enabled. If, however, the price l
 
 To read about the mathematical specification and implementation, see the below resources
 
-{% content-ref url="../technical-documents.md" %}
-[technical-documents.md](../technical-documents.md)
+{% content-ref url="../technical-documents/" %}
+[technical-documents](../technical-documents/)
 {% endcontent-ref %}
 
 ## Notes
