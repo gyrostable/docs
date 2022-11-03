@@ -30,10 +30,14 @@ The Gyroscope Protocol will be launched on Ethereum. The protocol is still being
 
 ### Scenario A: the stablecoin is priced above par value
 
-If the price rises above the peg, more stablecoins can be minted and sold on the market, with the proceeds growing the reserve. This is effectively a **closed arbitrage loop on the upside**. To prevent an excessive expansion of the stablecoin supply as reaction to a transitory market event (such as a loss of confidence in another stablecoin), minting might temporarily be disabled if the inflow is large and the stablecoin is overcollateralized.
+If the price rises above the peg, more stablecoins can be minted and sold on the market, with the proceeds growing the reserve. This is effectively a **closed arbitrage loop on the upside**.&#x20;
 
 {% hint style="info" %}
-This is part of the autonomous component of the Gyroscope design: It is foreseen to later move towards dynamic minting fees by using bonding curves to mint/ redeem stablecoins that measure the level of inflows and outflows.
+In a future iteration of the protocol, further programmatic logic could be added to respond to transitory market events (such as a loss of confidence in another stablecoin), which could otherwise have an outsized and unpredictable impact on Gyroscope.
+
+
+
+By measuring the level of inflows and outflows, two additional risk controls can be set-up: (1) dynamic fees to mint/ redeem, (2) circuit breakers to temporarily disable minting.  These risk controls can be further explored for potential usage in a later iteration of the protocol.
 {% endhint %}
 
 ### Scenario B: the stablecoin is priced below par value
