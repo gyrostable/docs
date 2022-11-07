@@ -32,7 +32,9 @@ If the available funds are not sufficient to cover the total amount of stablecoi
 
 **Gyroscope’s resilience, i.e., its ability to maintain its functionality even if parts of the system fail, and its ability to recover are key elements of the Gyroscope design.** A stylized representation of Gyroscope's reserve configuration is shown below.
 
-![stylized representation of Gyroscope's reserve configuration](https://lh6.googleusercontent.com/z\_GwRa6eAprkGDvsiPhhV6RNBwBQpSP4sg2EJzVcNB1r0rAf0fUn4Vj6Ri5XGekMFkU1pDpZJlUmyKdzGLvDl2WVQcdokHvwkHxWuq9m8usMkmXTDO-oM-Ejn8ngbt7zRxoUDZbfd5cbfwV7zvm67Ec)
+
+
+<figure><img src="https://lh4.googleusercontent.com/zGmsesY2HeA1dEjnnsGcYnuG9F0zt0m9g9TKyN6z4fF1q0_AT4AwHu5U7CVytLrZyfhU03NBWCFvXrEqh-RLapkMaaHFRe4ZqESVfy_HfiY1rDGoCLIFx8ZjdaMwJLglmvF86RgC5m04uQQGmk7VGw-6CFBDJA66F6cbG5HrYykk6IvIWVpQcnvR6nvegHQwVCE" alt=""><figcaption><p>stylized representation of Gyroscope's reserve configuration</p></figcaption></figure>
 
 ## Technical implementation
 
