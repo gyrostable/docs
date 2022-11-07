@@ -34,7 +34,9 @@ The consolidation mechanism combines two types of checks that cross-reference as
 
 The joint structure of these checks forms a web among asset pairs, grounded by cross-referenced information about USD prices. The CPF can be visualized as below:
 
-<figure><img src="../../.gitbook/assets/cpfmech (1).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="https://lh3.googleusercontent.com/jHkqXmdPVG1Va2iQJUu1jL1JuA6BU14x2_DAHBuktbvH7_JhF0Oln5W62c9w_B8HrRGkHB4m05e604t7hQWPE1AEt1vmOHyPkhX_N20UaL-nVGADceX-B6Dh743CpRoEL0zFkfY7uZ0QQaTR1AP3JWRy8j4ZvTON3RUhsY4f_SxJwQOQwE5LWzxmZACpUrBsShQ" alt=""><figcaption><p>Stylized visualization of the CPF</p></figcaption></figure>
 
 ## Relative Price Checks
 
