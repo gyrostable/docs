@@ -55,9 +55,7 @@ Depending on the reserve value covering 100% of the stablecoin supply or not, th
 While the reserve will initially be almost exclusively composed of other stablecoins, this may vary over the longer-term. A large shock to the reserve would only occur if there are even larger problems in other DeFi systems, in which case Gyroscope would aim to provide the least bad outcome.
 {% endhint %}
 
-![](<.gitbook/assets/Vaults Graphic v2.png>)
-
-****
+<figure><img src=".gitbook/assets/Vaults Graphic v4.png" alt=""><figcaption></figcaption></figure>
 
 **If there is a large shock to the reserve, then the second line of defense, Gyroscope’s autonomous pricing takes control.** If stablecoin units become undercollateralized, the bonding curve of the redemption market provides _**decreasing redemption quotes**_ as a circuit breaker to maintain a sustainable system. This stability mechanism should rarely be needed, but exists as a contingency plan and is using the multi-market design of Gyroscope which concentrates liquidity within the price quotes of the stablecoin mint/ redeem bonding curves.
 
@@ -77,4 +75,4 @@ Users form beliefs about the fundamental value of the stablecoin. These are base
 
 Additional products arise from the Gyroscope design. For instance, a highly liquid DEX that can withstand asset failures arises naturally from the Gyroscope design. This design can be conceptualized as a network of secondary-market automated market makers, Reserve Pools and Outside Pools that will allow efficient routing of trades. Secondary-market AMMs (SAMMs) are redundant, highly-liquid paths in and out of gyroscope stablecoins, while the primary-market AMM (PAMM) is the mint/ redeem market. For more detailed explanations read the descriptions of the PAMM and the SAMM.
 
-![](<.gitbook/assets/SAMM and Reserve Pools Graphic v2.png>)
+<figure><img src=".gitbook/assets/SAMM and Reserve Pools Graphic v3.png" alt=""><figcaption></figcaption></figure>
