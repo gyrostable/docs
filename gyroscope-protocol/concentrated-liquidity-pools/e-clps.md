@@ -22,7 +22,7 @@ By performing different manipulations on a circle, the E-CLP can be calibrated t
 
 The below visual representation shows how the E-CLP can be calibrated to have price-bounds, an upper ceiling of 1 USD, and an unevenly decaying price below 1 USD.
 
-<figure><img src="https://lh3.googleusercontent.com/KCWP7ZTGl54EtwrmG_cIUBIXae1PHGqRtQBa02UAUFE_fe6LPtCHgiL2Z1yT7ZIKnyE1V7v5YkgYVui8LENAsNPFwp037kRHgj861vdbjpllG4-4iDzDKuBkBlSLU_HQeAgagb0Gp3eC3z0PzLX-voqUJ3-LxlMkOVhOqsLIW5-jr4A0aDWOOxKbkOPi2w" alt=""><figcaption><p>Stylized visualztion of an E-CLP with price-bounds, an upper ceiling of 1 USD, and an unevenly decaying price below 1 USD.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/E-CLP-v1 (2) (1).gif" alt=""><figcaption><p>Stylized visualztion of an E-CLP with price-bounds, an upper ceiling of 1 USD, and an unevenly decaying price below 1 USD.Reduc</p></figcaption></figure>
 
 ## Benefits of E-CLPs
 
