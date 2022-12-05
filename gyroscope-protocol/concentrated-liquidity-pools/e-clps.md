@@ -10,7 +10,7 @@ description: Elliptic Liquidity Pools or E-CLPs
 
 Elliptic CLPs, or E-CLPs, allow trading along the curve of an ellipse. Similar to other CLPs, E-CLPs are designed to concentrate liquidity within price bounds. The difference is that E-CLP liquidity is more flexible: it can be further focused and not spread uniformly across the price range.
 
-E-CLPs will be used for GYDG trading markets, which are pools that pair GYD against other assets, and are calibrated to provide liquidity primarily provided around the peg, but with price bounds tailored to DSM redemption prices.
+E-CLPs will be used for GYD trading markets, which are pools that pair GYD against other assets, and are calibrated to provide liquidity primarily around the peg, but with price bounds tailored to DSM redemption prices.
 
 {% hint style="info" %}
 By performing different manipulations on a circle, the E-CLP can be calibrated to different use-cases. The main use-cases are listed below with colloquial explanations:
