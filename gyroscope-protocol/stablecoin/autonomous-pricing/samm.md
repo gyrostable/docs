@@ -1,22 +1,22 @@
 ---
-description: Concentrating liquidity within price bounds defined by the PAMM
+description: Concentrating liquidity within price bounds defined by the DSM
 ---
 
-# Secondary-market AMM
+# Gyro Money Markets
 
 ## Overview
 
-In Gyroscope, the secondary market AMM concentrates the liquidity within a band that follows the minting and redemption quotes set by the primary market AMM.
+In Gyroscope, the Gyro Money Markets concentrate the liquidity within a band that follows the minting and redemption quotes set by the DSM.
 
-With healthy reserves, SAMM liquidity is concentrated within a narrow band. If there is a shock to the reserve and the PAMM sets new redemption prices (as described here) this price band will widen. Notably, the _**SAMM liquidity provision is very resilient, as:**_
+With healthy reserves, Gyro Money Market liquidity is concentrated within a narrow band. If there is a shock to the reserve and the DSM sets new redemption prices (as described here) this price band will widen. Notably, the _**Gyro Money Market liquidity provision is very resilient, as:**_
 
-* SAMMs are _**redundant**_** ** (i.e., provide different paths in/out of GYD) and
-* SAMMs are _**independent**_ from each other (e.g. if the paired asset fails, remaining SAMM pools can still function, unlike one common Curve pool).
+* Gyro Money Markets are _**redundant**_** ** (i.e., provide different paths in/out of GYD) and
+* Gyro Money Markets are _**independent**_ from each other (e.g. if the paired asset fails, remaining SAMM pools can still function, unlike one common Curve pool).
 
-### Stylized SAMM redemption curve
+### Stylized Gyro Money Market redemption curve
 
-The stylized SAMM redemption curve is shown below against the example of a 50-50 Uniswap pool.
+The stylized Gyro Money Market redemption curve is shown below against the example of a 50-50 Uniswap pool.
 
 <figure><img src="../../../.gitbook/assets/Graph 1 v2.png" alt=""><figcaption></figcaption></figure>
 
-SAMM designs incorporate optimized bonding curve shapes and virtual reserve mechanisms. These are fully specified, formally characterized, and optimized in our SAMM technical paper, which will be released soon. See the white paper Section 3.5 for some further details.
+Gyro Money Market designs incorporate optimized bonding curve shapes and virtual reserve mechanisms. These are fully specified, formally characterized, and optimized in [several papers available on Github](https://github.com/gyrostable/technical-papers/tree/main/E-CLP).&#x20;
