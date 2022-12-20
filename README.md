@@ -73,6 +73,6 @@ Users form beliefs about the fundamental value of the stablecoin. These are base
 
 ## **Complimentary infrastructure**
 
-Additional products arise from the Gyroscope design. For instance, a highly liquid DEX that can withstand asset failures arises naturally from the Gyroscope design. This design can be conceptualized as a network of secondary-market automated market makers, Reserve Pools and Outside Pools that will allow efficient routing of trades. Gyro Money Markets are redundant, highly-liquid paths in and out of the Gyroscope stablecoin, while the Dynamic Stability Mechanism (DSM) is the mint/ redeem market. For more detailed explanations read the descriptions of the DSM and the Gyro Money Markets.
+Additional products arise from the Gyroscope design. For instance, a highly liquid DEX that can withstand asset failures arises naturally from the Gyroscope design. This design can be conceptualized as a network of secondary-market automated market makers, Reserve Pools and Outside Pools that will allow efficient routing of trades. GYD Trading Pools are redundant, highly-liquid paths in and out of the Gyroscope stablecoin, while the Dynamic Stability Mechanism (DSM) is the mint/ redeem market. For more detailed explanations read the descriptions of the DSM and the GYD Trading Pools.
 
 <figure><img src=".gitbook/assets/SAMM and Reserve Pools Graphic v4.png" alt=""><figcaption></figcaption></figure>
