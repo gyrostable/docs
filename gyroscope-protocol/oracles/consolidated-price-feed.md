@@ -20,7 +20,7 @@ To read about the mathematical specification and implementation, see the section
 
 The Consolidated Price Feed consolidates data from four different types of sources which have varying trust assumptions:
 
-* Chainlink. The security model of Chainlink amounts to effectively a large but trusted multisig and a trusted relay.
+* Chainlink. The security model of Chainlink amounts to effectively a large but trusted multisig.
 * AMM TWAPs. These TWAPs do not require trust, as they exist on-chain and do not require a relay. However, they are manipulable and slow tracking estimates of price.
 * Exchange-signed prices. Since the signatures for these prices can be verified on-chain, the relay for these prices does not need to be trusted, though the data provider (i.e., the exchange) is a trusted counterparty.
 * Observing changes to protocol state. The information about how agents interact with the protocol is observable completely on-chain with no trust assumptions. Unusual behavior can be used to flag suspicious settings when oracle prices may be wrong.
