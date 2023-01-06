@@ -15,3 +15,5 @@ description: A comprehensive list of all official Gyroscope channels
 * **Twitter**: [https://twitter.com/GyroStable](https://twitter.com/GyroStable)
 * **Discord**: [https://discord.com/invite/2vnqnS7wE6](https://discord.com/invite/2vnqnS7wE6)
 * **Forum**: [https://gov.gyro.finance/](https://gov.gyro.finance/)
+
+## Overview: [linktr.ee/GyroStable](https://t.co/Gxv6NxIYZQ)

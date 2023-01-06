@@ -24,7 +24,6 @@
   * [Is there a Gyroscope whitepaper?](gyroscope-protocol/faq/is-there-a-gyroscope-whitepaper.md)
   * [How is Gyroscope different?](gyroscope-protocol/faq/how-is-gyroscope-different.md)
   * [Why is it called Gyroscope?](gyroscope-protocol/faq/why-is-it-called-gyroscope.md)
-  * [Why is it a blackhole?](gyroscope-protocol/faq/why-is-it-a-blackhole.md)
   * [How scalable is Gyroscope?](gyroscope-protocol/faq/soundly-scalable.md)
   * [What are use cases of Gyroscope?](gyroscope-protocol/faq/gyroscope-use-cases.md)
   * [Gyroscope & Academia](gyroscope-protocol/faq/research.md)

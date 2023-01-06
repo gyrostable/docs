@@ -14,8 +14,8 @@ description: Frequently Asked Questions
 [why-is-it-called-gyroscope.md](why-is-it-called-gyroscope.md)
 {% endcontent-ref %}
 
-{% content-ref url="why-is-it-a-blackhole.md" %}
-[why-is-it-a-blackhole.md](why-is-it-a-blackhole.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="soundly-scalable.md" %}

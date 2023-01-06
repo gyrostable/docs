@@ -10,7 +10,7 @@ _These docs describe the Gyroscope design mechanisms as formulated through acade
 
 Gyroscope is designed to build a virtuous cycle between its different users: Gyro Dollar holders, governors, and passive liquidity providers (LPs).
 
-![](<../../.gitbook/assets/Governance Flow Chart.png>)
+<figure><img src="../../.gitbook/assets/Governance Flow Chart.png" alt="Stylized visualization of a virtuous cycle between different Gyroscope users"><figcaption><p>Stylized visualization of a virtuous cycle between different Gyroscope users</p></figcaption></figure>
 
 Read on to learn how the Gyroscope design fosters this virtuous cycle.
 

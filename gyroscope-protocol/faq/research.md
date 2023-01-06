@@ -7,12 +7,18 @@ description: >-
 # Gyroscope & Academia
 
 {% hint style="info" %}
-#### Presentation at IC3 Blockchain Camp on stablecoins
+#### Presentation at IC3 Blockchain Camp on stablecoins:&#x20;
 
+[https://www.youtube.com/watch?v=GCxRPwvHPIM\&feature=emb\_imp\_woyt](https://www.youtube.com/watch?v=GCxRPwvHPIM\&feature=emb\_imp\_woyt)&#x20;
 
+####
 
-[https://www.youtube.com/watch?v=GCxRPwvHPIM\&feature=emb\_imp\_woyt](https://www.youtube.com/watch?v=GCxRPwvHPIM\&feature=emb\_imp\_woyt)
+#### Presentation at DevCon VI on the Dynamic Stability Mechanism:
+
+[https://www.youtube.com/watch?v=3Yw2ASIBRgw\&t=1s\&ab\_channel=EthereumFoundation](https://www.youtube.com/watch?v=3Yw2ASIBRgw\&t=1s\&ab\_channel=EthereumFoundation)
 {% endhint %}
+
+
 
 {% hint style="info" %}
 #### Publications by the core team, FTL Labs

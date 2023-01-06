@@ -34,7 +34,7 @@ If the available funds are not sufficient to cover the total amount of stablecoi
 
 
 
-<figure><img src="https://lh4.googleusercontent.com/zGmsesY2HeA1dEjnnsGcYnuG9F0zt0m9g9TKyN6z4fF1q0_AT4AwHu5U7CVytLrZyfhU03NBWCFvXrEqh-RLapkMaaHFRe4ZqESVfy_HfiY1rDGoCLIFx8ZjdaMwJLglmvF86RgC5m04uQQGmk7VGw-6CFBDJA66F6cbG5HrYykk6IvIWVpQcnvR6nvegHQwVCE" alt=""><figcaption><p>stylized representation of Gyroscope's reserve configuration</p></figcaption></figure>
+<figure><img src="https://lh4.googleusercontent.com/zGmsesY2HeA1dEjnnsGcYnuG9F0zt0m9g9TKyN6z4fF1q0_AT4AwHu5U7CVytLrZyfhU03NBWCFvXrEqh-RLapkMaaHFRe4ZqESVfy_HfiY1rDGoCLIFx8ZjdaMwJLglmvF86RgC5m04uQQGmk7VGw-6CFBDJA66F6cbG5HrYykk6IvIWVpQcnvR6nvegHQwVCE" alt="Stylized representation of Gyroscope&#x27;s reserve configuration"><figcaption><p>stylized representation of Gyroscope's reserve configuration</p></figcaption></figure>
 
 ## Technical implementation
 

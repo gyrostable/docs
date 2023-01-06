@@ -19,6 +19,6 @@ The GYD Trading Pools each concentrate liquidity at ranges provided by the DSM f
 
 The GYD Trading Pools will form the center of a network of connecting pools that will allow efficient routing of trades. Some Gyroscope reserve vaults will deploy assets into pools that augment this network, and other existing AMM pools will connect with paired assets in the GYD Trading Pools.
 
-<figure><img src="https://lh4.googleusercontent.com/8ctv4qIaPPmoo23WGViFDdoCP3_H3cWvfMq3WnAFX_0-RdVYY79TS_pWXVa1MBb6lRCnxRSV-XkSAK1CclLxxJQYqCAdz1Nf_mpp6kSdsg7c2xvhtDgqYaE77fg_nUtDvLEfQVeaVFz1dco0nqwUZo1P1DjAJwcJE3kamT1WXwWAIg2IpE641_Z3gUN5pUvLBuE" alt=""><figcaption><p>Stylized overview of relevant Gyroscope markets</p></figcaption></figure>
+<figure><img src="https://lh4.googleusercontent.com/8ctv4qIaPPmoo23WGViFDdoCP3_H3cWvfMq3WnAFX_0-RdVYY79TS_pWXVa1MBb6lRCnxRSV-XkSAK1CclLxxJQYqCAdz1Nf_mpp6kSdsg7c2xvhtDgqYaE77fg_nUtDvLEfQVeaVFz1dco0nqwUZo1P1DjAJwcJE3kamT1WXwWAIg2IpE641_Z3gUN5pUvLBuE" alt="Stylized overview of relevant Gyroscope markets"><figcaption><p>Stylized overview of relevant Gyroscope markets</p></figcaption></figure>
 
 A feature of this design is that it induces a peg coordination mechanism, which fosters high liquidity around the peg, while curtailing speculative attacks and bank run effects with a circuit breaker in case coordination breaks.

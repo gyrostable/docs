@@ -4,7 +4,7 @@ description: Summary of short frequently asked questions
 
 # Classical FAQ
 
-_**Question:** Will the UI of the Kovan Testnet Game be improved?_
+_**Question:** Will the UI be further improved?_
 
 **Answer:** Yes! The UI is just the minimal viable product, the UI will be overhauled before the launch on mainnet.
 

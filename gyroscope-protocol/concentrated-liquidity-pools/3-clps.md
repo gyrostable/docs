@@ -18,11 +18,11 @@ Like in any Balancer or Curve pool with more than two assets, the prices between
 
 **Because of this relationship, understanding the multi-dimensional pricing bounds of the 3-CLP requires some thought.** For the 2-CLP, the pricing bounds of the pool are very easy to understand: they are simply an interval of prices on a line, as shown below.
 
-![stylistic visualization of 2-CLP price bounds](https://lh6.googleusercontent.com/GbUtkQtQ-tuoYYkFyDMfDZv3gVtmrDXwxw9TjO74o2uW9N1Laes-2XpOS68S8NIeTtH0V0jry-IRwlmI2I5W36\_SxgX\_5oImxrsMvyjhwYD50ImQ-UddNM2ua0hq4Bzk26cmEJpfvke-MRBF8N6tp3Q)
+<figure><img src="https://lh6.googleusercontent.com/GbUtkQtQ-tuoYYkFyDMfDZv3gVtmrDXwxw9TjO74o2uW9N1Laes-2XpOS68S8NIeTtH0V0jry-IRwlmI2I5W36_SxgX_5oImxrsMvyjhwYD50ImQ-UddNM2ua0hq4Bzk26cmEJpfvke-MRBF8N6tp3Q" alt="stylistic visualization of 2-CLP price bounds"><figcaption><p>stylistic visualization of 2-CLP price bounds</p></figcaption></figure>
 
 **The graphic below visualizes the feasible pricing region of a 3-CLP, which is the region of spot prices that a 3-CLP may quote.** Here we chose α=0.5, so that the pool does not price below 0.5 or above 2.0.
 
-![stylistic visualization of the feasible pricing region of a 3-CLP](https://lh6.googleusercontent.com/RBCkNsxzRrF7UbF74qSSNoa99\_AjVg2HRyZhJ3xR4WeOjaxGoWxMPuz2vX2W\_1gAGqc7LARkrcwjOGyxGMROvcwNpbBFI7PStehE4Aa8IfFgOfubFnDqRUs1gKqzCck7-uj16n7MOfwozAaKxx6EVWA)
+<figure><img src="https://lh6.googleusercontent.com/RBCkNsxzRrF7UbF74qSSNoa99_AjVg2HRyZhJ3xR4WeOjaxGoWxMPuz2vX2W_1gAGqc7LARkrcwjOGyxGMROvcwNpbBFI7PStehE4Aa8IfFgOfubFnDqRUs1gKqzCck7-uj16n7MOfwozAaKxx6EVWA" alt="stylistic visualization of the feasible pricing region of a 3-CLP"><figcaption><p>stylistic visualization of the feasible pricing region of a 3-CLP</p></figcaption></figure>
 
 The feasible pricing region is parameterized by the prices of asset x and y, respectively, denoted in units of asset z. The third price pair, of x denoted in units of y, is the quotient of the two prices: px/y=px/z/py/z. In the figure, each included asset is represented with a different color.&#x20;
 
@@ -38,7 +38,7 @@ The region where all colors overlap is the feasible pricing region - these are c
 * _**Gas efficiency**_: Trading among three assets is more gas efficient than connecting two trades through two different 2-CLPs.&#x20;
 * _**User experience**_: 3-CLPs remain comparatively simple in architecture and user experience.
 
-<figure><img src="../../.gitbook/assets/3-CLP-v4.gif" alt=""><figcaption><p>Stylized representation of capital efficiency gains of 3-CLPs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3-CLP-v4.gif" alt="Stylized representation of capital efficiency gains of 3-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 3-CLPs</p></figcaption></figure>
 
 ## Risks of 3-CLPs&#x20;
 

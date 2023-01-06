@@ -32,7 +32,7 @@ Gyroscope is not like those algorithmic stablecoins. Instead, all of every $1 pa
 
 For further discussion of how Gyroscope compares to algorithmic stablecoins, including resistance to bank runs, read our [article here](https://medium.com/gyroscope-protocol/gyroscope-is-different-part-2-algorithmic-stablecoins-78c53c005e89).
 
-![](<../../.gitbook/assets/Algorithmic Stablecoins Confidence Crisis Flow Chart.png>)
+<figure><img src="../../.gitbook/assets/Algorithmic Stablecoins Confidence Crisis Flow Chart.png" alt="Critical design choices for stablecoins"><figcaption><p>Critical design choices for stablecoins</p></figcaption></figure>
 
 ## Custodial and Leverage-based Stablecoins
 

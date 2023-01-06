@@ -17,6 +17,6 @@ With healthy reserves, GYD Trading Pools liquidity is concentrated within a narr
 
 The stylized GYD Trading Pool redemption curve is shown below against the example of a 50-50 Uniswap pool.
 
-<figure><img src="../../../.gitbook/assets/Graph 1 v3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Graph 1 v3 (1).png" alt="Stylized GYD Trading Pool redemption curve"><figcaption><p>Stylized GYD Trading Pool redemption curve</p></figcaption></figure>
 
 GYD Trading Pool designs incorporate optimized bonding curve shapes and virtual reserve mechanisms. These are fully specified, formally characterized, and optimized in [several papers available on Github](https://github.com/gyrostable/technical-papers/tree/main/E-CLP).&#x20;

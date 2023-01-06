@@ -6,13 +6,15 @@ description: Exemplary use cases of Gyroscope infrastructure
 
 ## Trading Hub Asset
 
-The concentrated liquidity in the S-AMMs, made possible by Gyroscope's P-AMM design, makes Gyro stablecoin liquidity exceptional in the stablecoin space. For this reason, a natural use case of Gyroscope is as a trading hub asset. Like USDT predominantly today, many low slippage trades can be made possible by connecting through Gyro stablecoin S-AMMs within the Balancer v2 trading ecosystem, where the first S-AMMs will be developed. Early liquidity provision on the S-AMMs at launch can be bootstrapped using liquidity mining.
+The concentrated liquidity in the GYD Trading Pools, made possible by [Gyroscope's Dynamic Stability Mechanism](../stablecoin/autonomous-pricing/pamm.md) (DSM) design, makes Gyro stablecoin liquidity exceptional in the stablecoin space.
 
-![](<../../.gitbook/assets/SAMM and Reserve Pools Graphic.png>)
+&#x20;For this reason, a natural use case of Gyroscope is as a trading hub asset. Like USDT predominantly today, many low slippage trades can be made possible by connecting through GYD Trading Pools within the Balancer v2 trading ecosystem, where the first GYD Trading Pools are deployed. Early liquidity provision on the GYD Trading Pools at launch can be bootstrapped using liquidity mining.
+
+<figure><img src="../../.gitbook/assets/SAMM and Reserve Pools Graphic.png" alt="Stylized visualization of the Gyroscope stablecoin trading network"><figcaption><p>Stylized visualization of the Gyroscope stablecoin trading network</p></figcaption></figure>
 
 ## More Efficient Collateral for DeFi
 
-The exceptional Gyro stablecoin liquidity and stability also makes Gyro stablecoins an ideal collateral for use in other DeFi protocols. For instance, protocols with liquidations can incorporate the observable P-AMM redemption price as a floor on the liquidation value when adapting risk parameters. Further, the boosted S-AMM liquidity means that liquidations are likely to be settled at much better rates. Altogether, this means that collateral can be used more efficiently.
+The exceptional Gyro stablecoin liquidity and stability also makes Gyro stablecoins an ideal collateral for use in other DeFi protocols. For instance, protocols with liquidations can incorporate the observable DSM redemption price as a floor on the liquidation value when adapting risk parameters. Further, the boosted GYD trading pool liquidity means that liquidations are likely to be settled at much better rates. Altogether, this means that collateral can be used more efficiently.
 
 While the system is healthy and the reserve is generating good yield, parts of that yield may be passed on to Gyro stablecoin holders in the form of an interest rate (like Dai's DSR).
 

@@ -16,7 +16,7 @@ The shape of the DSM (i.e., the bonding curves that quote prices to mint/ redeem
 
 The stylized DSM redemption curve for different reserve ratio levels is shown below, against the example of a 50-50 Uniswap pool.
 
-<figure><img src="../../../.gitbook/assets/Graph 2 v2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Graph 2 v2.png" alt="Stylized DSM redemption curve"><figcaption><p>Stylized DSM redemption curve</p></figcaption></figure>
 
 ### Examples and further explanations
 

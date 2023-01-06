@@ -12,11 +12,11 @@ Given quantities of real reserves (x,y) in the pool and the pool’s pricing ran
 
 **2-CLPs can also be represented visually.** The conceptual graphic below shows a constant product curve without concentrated liquidity where two price bounds are depicted as blue rectangles. A 2-CLP can be understood as “zooming into” the part of the curve between the price bounds. Here, the curve is substantially ‘flatter’ with trades having less price impact. Further documentation is available here.
 
-![conceptual graphic showing liquidity concentration of 2-CLPs](https://lh3.googleusercontent.com/HiTLnGO8aQoWhypPUi87DmLyJCBsbL2ra71HxO98w2JVsPV1-ZoPKYlp9zskMvxrnHWes5e4RzNhFnDEPgl5eX\_NmzvCm88Xq4AO5rm\_C6sTnj0YiHevV-d5Sgb-\_n1xxFBe4LEBFYtDTAsBfAK6dv8)
+<figure><img src="https://lh3.googleusercontent.com/HiTLnGO8aQoWhypPUi87DmLyJCBsbL2ra71HxO98w2JVsPV1-ZoPKYlp9zskMvxrnHWes5e4RzNhFnDEPgl5eX_NmzvCm88Xq4AO5rm_C6sTnj0YiHevV-d5Sgb-_n1xxFBe4LEBFYtDTAsBfAK6dv8" alt="conceptual graphic showing liquidity concentration of 2-CLPs"><figcaption><p>conceptual graphic showing liquidity concentration of 2-CLPs</p></figcaption></figure>
 
 **Compared with “x \* y = k” (i.e., constant product or Uniswap v2) AMMs, a 2-CLP can better utilize the existing liquidity.** Instead of spreading liquidity across the entire range of prices that could in theory occur - ‘from zero to infinity’ - _a 2-CLP focuses on a small range of prices by adding price bounds_ which are implemented using ‘virtual reserves’. Virtual reserves can be understood as the reserves that would be necessary to reach the depth of a concentrated liquidity position using a standard unlimited range pool.
 
-![Stylized representation of capital efficiency gains of 2-CLPs](<../../.gitbook/assets/2-clp-v2 (3).gif>)
+<figure><img src="../../.gitbook/assets/2-clp-v2 (3).gif" alt="Stylized representation of capital efficiency gains of 2-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 2-CLPs</p></figcaption></figure>
 
 {% hint style="info" %}
 The notion of virtual reserves was first introduced in the YieldSpace whitepaper [\[3\]](2-clps.md#notes) and Uniswap v3 first introduced the concept of concentrated liquidity pools [\[4\]](2-clps.md#notes).&#x20;
