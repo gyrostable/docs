@@ -23,7 +23,7 @@ Gyroscope's mission is to build robust public infrastructure for DeFi. The centr
 * **Autonomous price bounding**: Prices for minting and redeeming stablecoins are set autonomously to balance the goal of maintaining a tight peg with the goal of long-term viability of the project in the face of short-term crises.
 
 {% hint style="info" %}
-The Gyroscope Protocol will be launched on Ethereum. The protocol is still being developed. A [gamified Kovan Testnet version](testnet/testnet-walk-through.md) is available that introduces the users to the core concepts in various, easily-accessible 'levels'. &#x20;
+The Gyroscope Protocol will be launched on Ethereum. The protocol is still being developed. A [gamified Kovan Testnet version](broken-reference) is available that introduces the users to the core concepts in various, easily-accessible 'levels'. &#x20;
 {% endhint %}
 
 ## Core stability mechanisms

@@ -21,6 +21,7 @@
   * [Consolidated price feed](gyroscope-protocol/technical-documents/consolidated-price-feed.md)
 * [Learn more](gyroscope-protocol/learn-more.md)
 * [FAQ](gyroscope-protocol/faq/README.md)
+  * [Is there info on the Gamified Testnet?](gyroscope-protocol/faq/is-there-info-on-the-gamified-testnet.md)
   * [Is there a Gyroscope whitepaper?](gyroscope-protocol/faq/is-there-a-gyroscope-whitepaper.md)
   * [How is Gyroscope different?](gyroscope-protocol/faq/how-is-gyroscope-different.md)
   * [Why is it called Gyroscope?](gyroscope-protocol/faq/why-is-it-called-gyroscope.md)
@@ -38,9 +39,8 @@
 * [Gyro guardians](governance/gyro-guardians.md)
 * [Official channels](governance/official-channels.md)
 
-## Gamified Testnet <a href="#testnet" id="testnet"></a>
+## Gyro Proto
 
-* [Walk-through](testnet/testnet-walk-through.md)
-* [Contract addresses](testnet/contract-addresses.md)
-* [Alpha version](testnet/overview.md)
-* [Get testnet tokens](testnet/how-to-get-testnet-tokens.md)
+* [Gyro Proto](gyro-proto/gyro-proto.md)
+* [Walk-through](gyro-proto/walk-through.md)
+* [Contract addresses](gyro-proto/contract-addresses.md)
