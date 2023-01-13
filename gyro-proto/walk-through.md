@@ -18,7 +18,7 @@ Four tokens make up the reserve for Gyro Proto:
 
 ## How do I get LP tokens?
 
-Go to the Gyroscope pool page, [<mark style="color:red;">here</mark>](http://link.gyro.finance)<mark style="color:red;">.</mark> Then, select the LP pool that you want to join and press ‘Join’ on the right side of the page.&#x20;
+Go to the Gyroscope pool page, [here](http://link.gyro.finance). Then, select the LP pool that you want to join and press ‘Join’ on the right side of the page.&#x20;
 
 <figure><img src="https://lh5.googleusercontent.com/Np0c3KpAJc_g3rG3qmXyDLLVnn2TVYzdvjo02Rooi2USk7vuECLkIrS1409bkSP6WNsnZ-jMZOU-dLNcsRcZGLJTr0Rpzme24RHUMNJEGVT_Mc-jzRt1__7YVNfq7b1D86wN8132mv22pDEYfVu_STNp2Xnfmb9e_rpulGaLaoknKaxaW8mOJSVZrrYn6w" alt=""><figcaption></figcaption></figure>
 
@@ -51,7 +51,7 @@ If the transaction succeeds, you should be the proud owner of some p-GYD units o
 Redeeming p-GYD
 ---------------
 
-<mark style="background-color:red;">\[to be completed]</mark>
+<mark style="background-color:red;">\[FILL IN ONCE 42 ERROR FIXED]</mark>
 
 ## How to make p-GYD appear in MetaMask
 
