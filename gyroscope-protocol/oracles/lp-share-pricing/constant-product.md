@@ -1,14 +1,8 @@
 ---
-description: Methodology and implementation of Balancer Pool LP token (BPT) pricing
+description: How to price n-asset constant product pools (ordinary Balancer pools)
 ---
 
-# BPT Oracle
-
-{% hint style="info" %}
-The LP share pricing on this page describes constant product pools (ordinary Balancer pools). Coming documentation will describe how to similarly price a wide variety of other LP tokens.
-{% endhint %}
-
-To price LP tokens, it is not enough to simply add the values of all assets in the pool as this is easily manipulated. We use a more robust procedure for calculating Balancer LP token values.
+# Constant product
 
 For a given Balancer pool containing assets 1, ..., n, define the following:
 
