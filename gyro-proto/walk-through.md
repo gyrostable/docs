@@ -8,9 +8,13 @@ description: >-
 
 ## How to use Gyro Proto
 
-To be able to mint p-GYD, proto-GYD dollars, you first need to hold one or more of the tokens that make up the reserve.
+{% embed url="https://www.youtube.com/watch?v=XV61Khkl70g" %}
+Video walk-through on how to use Gyro Proto
+{% endembed %}
 
-Four tokens make up the reserve for Gyro Proto:
+In addition to the above video, continue reading for a written walk-through:
+
+To be able to mint p-GYD, proto-GYD dollars, you first need to hold one or more of the tokens that make up the reserve. Four tokens make up the reserve for Gyro Proto:
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-01-23 at 15.49.19.png" alt=""><figcaption></figcaption></figure>
 
