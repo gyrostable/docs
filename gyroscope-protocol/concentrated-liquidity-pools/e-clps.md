@@ -58,7 +58,7 @@ Notably, there is always some cost to minting/ redemption operations, be it oper
 
 Using E-CLPs also comes with certain risks, including smart contract risk, strategy risk, and adverse selection risk. For a more comprehensive description of risks, please refer to terms of service or similar document governing your chosen user interface, as well as review the code available here.
 
-**Smart contract risk:** As with any smart contract, there is an inherent risk that an exploit or bug puts deposited assets at risk. This risk can be reduced by conducting code audits and testing it, but it can not be fully mitigated, especially because E-CLPs are a novel concept and experimental technology. The code audit covering an implementation of E-CLPs can be viewed here.
+**Smart contract risk:** As with any smart contract, there is an inherent risk that an exploit or bug puts deposited assets at risk. This risk can be reduced by conducting code audits and testing it, but it can not be fully mitigated, especially because E-CLPs are a novel concept and experimental technology. The code audit covering an implementation of E-CLPs can be viewed [here](../audit-reports.md).
 
 **Strategy risk:** By entering into the pool, LPers commit to a market making strategy, and in turn a portfolio rebalancing rule, that fundamentally has different payoffs than just holding the underlying assets or using a different rebalancing rule. The portfolio rule of an E-CLP LP position depends on the parameterization of the pool. LPs should independently consider the given portfolio rule and pool parameters.
 
