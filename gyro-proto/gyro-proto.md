@@ -4,6 +4,10 @@ description: Gyro Proto is a beta version of the Gyroscope stablecoin system.
 
 # Gyro Proto
 
+## Where can I try it?
+
+Try out Gyro Proto [here](https://app.gyro.finance/dsm/).&#x20;
+
 ## Gyro Proto Implementation
 
 Gyro Proto (p-GYD) is a beta version of the Gyroscope stablecoin system. It is released in a guarded form on Polygon for testing purposes prior to the full Gyroscope launch on Ethereum.
