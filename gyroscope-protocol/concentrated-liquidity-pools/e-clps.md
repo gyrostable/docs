@@ -62,17 +62,15 @@ Using E-CLPs also comes with certain risks, including smart contract risk, strat
 
 **Strategy risk:** By entering into the pool, LPers commit to a market making strategy, and in turn a portfolio rebalancing rule, that fundamentally has different payoffs than just holding the underlying assets or using a different rebalancing rule. The portfolio rule of an E-CLP LP position depends on the parameterization of the pool. LPs should independently consider the given portfolio rule and pool parameters.
 
-**Adverse selection risk:** In any AMM pool, if the true relative market price between assets in the pool jumps permanently, LPers incur a loss due to adverse selection. In particular, the pool is left offering 'stale' quotes at worse than true market price. The adverse selection loss will be equal to the profit to arbitrageurs for moving the pool's quoted price back into equilibrium with the rest of the market. Technical Specification
+**Adverse selection risk:** In any AMM pool, if the true relative market price between assets in the pool jumps permanently, LPers incur a loss due to adverse selection. In particular, the pool is left offering 'stale' quotes at worse than true market price. The adverse selection loss will be equal to the profit to arbitrageurs for moving the pool's quoted price back into equilibrium with the rest of the market.
+
+## Technical Specification
 
 All of the most important functions are defined in the file GyroECLPMath.sol and listed in the below table.
 
 <table><thead><tr><th>Function</th><th>Purpose</th><th data-hidden></th></tr></thead><tbody><tr><td>calculateInvariant</td><td>(Re-)computes the invariant r from the current reserves t = (x, y)</td><td></td></tr><tr><td>calcOutGivenIn </td><td>Computes the amount that leaves the pool when a certain amount enters it, after fees.</td><td></td></tr><tr><td>calcInGivenOut</td><td>Computes the amount that needs to enter the pool when a certain amount should leave it, after fees. </td><td></td></tr><tr><td>calcXGivenY</td><td>Computes the amount of asset x given a certain amount of asset y and a certain invariant. Used by calcOutGivenIn and calcInGivenOut. </td><td></td></tr><tr><td>calcYGivenX</td><td>The same functionality for y given x. </td><td></td></tr><tr><td>liquidityInvariantUpdate</td><td>New invariant when liquidity is added/removed in a “balanced” fashion (without affecting the price). This avoids fully re-calculation of the invariant.</td><td></td></tr></tbody></table>
 
 Conceptually, the ‘ellipse’ function is derived from transforming a circle with stretch, rotation, and displacement. The E-CLP invariant can be described as the minor radius (also known as the “semi-minor axis”) of the ellipse.
-
-
-
-## Technical Specification
 
 To read about the mathematical specification and implementation, see the below resources:
 
