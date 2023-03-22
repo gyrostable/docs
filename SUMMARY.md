@@ -48,3 +48,4 @@
 * [Gyro Proto](gyro-proto/gyro-proto.md)
 * [Walk-through](gyro-proto/walk-through.md)
 * [Contract addresses](gyro-proto/contract-addresses.md)
+* [DSM error codes](gyro-proto/dsm-error-codes.md)
