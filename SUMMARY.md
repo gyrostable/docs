@@ -9,6 +9,7 @@
     * [Dynamic Stability Mechanism](gyroscope-protocol/stablecoin/autonomous-pricing/pamm.md)
     * [GYD Trading Pools](gyroscope-protocol/stablecoin/autonomous-pricing/samm.md)
     * [Economic intuition](gyroscope-protocol/stablecoin/autonomous-pricing/economic-intuition.md)
+  * [Reserve Safety Checks](gyroscope-protocol/stablecoin/reserve-safety-checks.md)
   * [Complementary stability mechanisms](gyroscope-protocol/stablecoin/gyroscope-stability.md)
 * [Oracles & price feeds](gyroscope-protocol/oracles/README.md)
   * [Consolidated price feed](gyroscope-protocol/oracles/consolidated-price-feed.md)

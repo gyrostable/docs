@@ -10,5 +10,6 @@
 
 {% embed url="https://github.com/gyrostable/audit-reports/blob/main/Trail%20of%20Bits/Summary%20Report%20%26%20Fix%20Review%20-%20Gyroscope.pdf" %}
 
-## Runtime Verification (coming soon)
+## Runtime Verification
 
+{% embed url="https://github.com/gyrostable/audit-reports/blob/main/Runtime%20Verification/Gyroscope_Protocol_Audit_Report.pdf" %}
