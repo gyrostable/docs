@@ -6,7 +6,7 @@ description: Cubic-Concentrated Liquidity Pools or 3-CLPs
 
 ## Description of 3-CLPs
 
-**Cubic CLPs, or 3-CLPs, concentrate the liquidity of three assets to a pricing range.** The first 3-CLPs are designed for symmetric price ranges \[α,1/α] on the three asset pairs in the pool. A given pool is parameterized by the pricing parameter α and the three assets that make up the pool **** [\[1\]](3-clps.md#notes).
+**Cubic CLPs, or 3-CLPs, concentrate the liquidity of three assets to a pricing range.** The first 3-CLPs are designed for symmetric price ranges \[α,1/α] on the three asset pairs in the pool. A given pool is parameterized by the pricing parameter α and the three assets that make up the pool [\[1\]](3-clps.md#notes).
 
 {% hint style="info" %}
 Given quantities of real reserves (x,y,z) in the pool and the pool's pricing parameter α, the offset a can be calculated [\[2\]](3-clps.md#notes). This offset describes the amount the pool adds to real reserves to form the virtual reserves that achieve the pricing range.&#x20;
@@ -38,7 +38,7 @@ The region where all colors overlap is the feasible pricing region - these are c
 * _**Gas efficiency**_: Trading among three assets is more gas efficient than connecting two trades through two different 2-CLPs.&#x20;
 * _**User experience**_: 3-CLPs remain comparatively simple in architecture and user experience.
 
-<figure><img src="../../.gitbook/assets/3-CLP-v4.gif" alt="Stylized representation of capital efficiency gains of 3-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 3-CLPs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3-CLP-v4 (1).gif" alt="Stylized representation of capital efficiency gains of 3-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 3-CLPs</p></figcaption></figure>
 
 ## Risks of 3-CLPs&#x20;
 

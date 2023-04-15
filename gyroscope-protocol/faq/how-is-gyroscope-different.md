@@ -20,7 +20,7 @@ We expand on these ideas in a three part series: [Part I](https://medium.com/gyr
 
 ## **Meta-Stablecoins** <a href="#e55d" id="e55d"></a>
 
-Meta-stablecoins are stablecoins that are composed of a basket of other stablecoins. The idea is that the basket diversifies the risks of the individual stablecoins. This can create a new type of risk for the stablecoin, called composability risk: the risk that a problem in one system can cascade into other systems. For more discussion, see our [article here](https://medium.com/gyroscope-protocol/gyroscope-is-different-part-1-72dcb8c303a4). **** Gyroscope’s all-weather reserve is designed to be resistant to these composability risks.
+Meta-stablecoins are stablecoins that are composed of a basket of other stablecoins. The idea is that the basket diversifies the risks of the individual stablecoins. This can create a new type of risk for the stablecoin, called composability risk: the risk that a problem in one system can cascade into other systems. For more discussion, see our [article here](https://medium.com/gyroscope-protocol/gyroscope-is-different-part-1-72dcb8c303a4). Gyroscope’s all-weather reserve is designed to be resistant to these composability risks.
 
 ## Algorithmic Stablecoins
 

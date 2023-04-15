@@ -10,7 +10,7 @@ In Gyroscope, the GYD Trading Pools concentrate the liquidity within a band that
 
 With healthy reserves, GYD Trading Pools liquidity is concentrated within a narrow band. If there is a shock to the reserve and the DSM sets new redemption prices (as described here) this price band will widen. Notably, the _**GYD Trading Pool**_ _**liquidity provision is very resilient, as:**_
 
-* GYD Trading Pools are _**redundant**_** ** (i.e., provide different paths in/out of GYD) and
+* GYD Trading Pools are _**redundant**_ (i.e., provide different paths in/out of GYD) and
 * GYD Trading Pools are _**independent**_ from each other (e.g. if the paired asset fails, remaining SAMM pools can still function, unlike one common Curve pool).
 
 ### Stylized GYD Trading Pool redemption curve
