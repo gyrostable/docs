@@ -47,8 +47,6 @@ $$
 
 
 
-
-
 ## Pricing LP tokens for 2-CLPs, 3-CLPs, and E-CLPs
 
 LP share pricing for the CLPs follows the same general principles and is described in full detail in Section 5 of the following technical paper.
