@@ -72,7 +72,7 @@ To read about the mathematical specification and implementation, see the below r
 
 \[3] Yield Space,’YieldSpace: An Automated Liquidity Provider for Fixed Yield Tokens’: [https://yield.is/YieldSpace.pdf](https://yield.is/YieldSpace.pdf)
 
-\[4] Uniswap, ‘Concentrated liquidity’, available at: [https://docs.uniswap.org/protocol/concepts/V3-overview/concentrated-liquidity](https://docs.uniswap.org/protocol/concepts/V3-overview/concentrated-liquidity)
+\[4] Uniswap, ‘Concentrated liquidity’, available at: [https://docs.uniswap.org/concepts/protocol/concentrated-liquidity](https://docs.uniswap.org/concepts/protocol/concentrated-liquidity)
 
 \[5] Paradigm, ‘Understanding Automated Market-Makers, Part 1: Price Impact’, available at: https://research.paradigm.xyz/amm-price-impact
 
