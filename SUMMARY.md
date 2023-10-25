@@ -34,11 +34,24 @@
 
 ## Governance
 
-* [Governance primitives](governance/primitives/README.md)
-  * [Optimistic Approval](governance/primitives/optimistic-approval.md)
-  * [Conditional cashflows](governance/primitives/conditional-cashflows.md)
-* [Gyro guardians](governance/gyro-guardians.md)
+* [Overview](governance/overview.md)
+* [How it works](governance/how-it-works/README.md)
+  * [Voting Vaults](governance/how-it-works/voting-vaults/README.md)
+    * [The Founding Member Vault](governance/how-it-works/voting-vaults/the-founding-member-vault.md)
+    * [Councillor Vault](governance/how-it-works/voting-vaults/councillor-vault.md)
+    * [Associated DAO Vault](governance/how-it-works/voting-vaults/associated-dao-vault.md)
+    * [GYD LP Vault](governance/how-it-works/voting-vaults/gyd-lp-vault.md)
+    * [GYFI Vault](governance/how-it-works/voting-vaults/gyfi-vault.md)
+  * [Action Tiering](governance/how-it-works/action-tiering.md)
+  * [Proposals](governance/how-it-works/proposals.md)
+  * [Vote delegation](governance/how-it-works/vote-delegation.md)
+  * [Conditional cashflows](governance/how-it-works/conditional-cashflows.md)
+  * [GYD Recovery Module](governance/how-it-works/gyd-recovery-module.md)
+* [Optimistic Approval](governance/optimistic-approval/README.md)
+  * [Emergency Recovery](governance/optimistic-approval/emergency-recovery.md)
+  * [Limiting Upgradeability](governance/optimistic-approval/limiting-upgradeability.md)
 * [Official channels](governance/official-channels.md)
+* [Deployed contracts](governance/deployed-contracts.md)
 
 ## Gyro Proto
 

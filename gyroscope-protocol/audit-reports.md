@@ -2,6 +2,8 @@
 
 ## Latest audit report
 
+{% embed url="https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM-0055%20Security%20Review%20-%20Gyroscope%20CEMM.pdf" %}
+
 * [**Security Review: Protocol**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM0094-GYROSCOPE-PROTOCOL-FINAL.pdf) - Nethermind - 08/15/2023
 * [**Security Review: Governance**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM0076-GYROSCOPE-GOVERNANCE-FINAL.pdf) - Nethermind - 08/15/2023
 

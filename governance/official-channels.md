@@ -7,7 +7,6 @@ description: A comprehensive list of all official Gyroscope channels
 ## Gyroscope channels
 
 * **Website**: [https://gyro.finance/](https://gyro.finance/)
-* **Testnet**: [https://test.gyro.finance/](https://test.gyro.finance/)
 * **Snapshot**: [https://snapshot.org/#/gyrodao.eth](https://snapshot.org/#/gyrodao.eth)
 
 ## Social channels
