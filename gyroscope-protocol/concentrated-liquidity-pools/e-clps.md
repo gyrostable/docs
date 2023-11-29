@@ -76,6 +76,29 @@ To read about the mathematical specification and implementation, see the below r
 
 {% embed url="https://docs.gyro.finance/gyroscope-protocol/technical-documents" %}
 
+### Reading E-CLP parameters
+
+In order to retrieve information about an individual E-CLP calibration, it is possible to query getECLPParams, which returns two tuples.
+
+* The first tuple returns int256 (signed) values for: alpha, beta, c, s, lambda
+* The second tuple is the output of an off-chain computation that is based on the first tuple and can be referenced/ proven if desired. This tuple contains auxiliary variables used in high-precision calculations, in order: tauAlpha, taubBeta, u, v, w, z, d^2.
+
+The various parameter values can be understood as follows:
+
+* α (alpha) defines the lower bound of the price range
+* β (beta) defines the upper bound of the price range
+* c, s define the rotation point and are further defined by the cosine (respectively sine) of the rotation angle.
+* The price of maximum liquidity is the quotient s/c (which is also the tangent of the rotation angle).
+* λ (lambda) defines the stretching factor. The higher λ, the more liquidity is concentrated within the price range. For lower λ, the pool’s liquidity is more evenly spread across the price range. Geometrically, a higher λ means that the ellipse is more elongated, with λ = 1 corresponding to a circle.
+
+<figure><img src="https://lh7-us.googleusercontent.com/7Mvl_CtmYuy9WFjhKT7TsXZvpNowu2tJRJ7-kCdeZvvPhuPnt5Iyr5S1afs_R04MVUe5x2ghEQJ22YJhDLYKTMAQ6z-K0QxnrTL4S2Gt3uK-UuICiqgbhND3C3JnGVb123hKuJrbKZwv-8dfxB9WN6I" alt=""><figcaption><p>Intuition on E-CLP construction</p></figcaption></figure>
+
+{% hint style="info" %}
+Note, the ordering of the two tokens (“token0” and “token1”) follows from the lexicographical order of the contract address - as required by the Balancer Vault. For example, comparing the addresses “A0b8\[..]” and “e07F\[..]” , the address starting with “A0b8” would be Token0, the address starting with “e07F” would be Token1.
+
+For ease of reading, calibrations are typically denoted with GYD as token0 and the other asset as token1. Whenever Balancer’s rules prohibit this (and require that GYD is token1), the parameters need to be “flipped” as follows: alpha' := 1/beta, beta' := 1/alpha, s’ = c, c’ = s.
+{% endhint %}
+
 ### Notes
 
 For further detail and the underlying mathematical operations, see:
