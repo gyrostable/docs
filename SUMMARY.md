@@ -1,8 +1,10 @@
 # Table of contents
 
+* [tldr: What is Gyroscope](README.md)
+
 ## The Gyroscope protocol <a href="#gyroscope-protocol" id="gyroscope-protocol"></a>
 
-* [Overview](README.md)
+* [Overview](<README (1).md>)
 * [Gyroscope stablecoin](gyroscope-protocol/stablecoin/README.md)
   * [Reserve design](gyroscope-protocol/stablecoin/reserve.md)
   * [Autonomous pricing](gyroscope-protocol/stablecoin/autonomous-pricing/README.md)
@@ -31,6 +33,7 @@
   * [Gyroscope & Academia](gyroscope-protocol/faq/research.md)
   * [Classical FAQ](gyroscope-protocol/faq/classical-faq.md)
 * [Audit Reports](gyroscope-protocol/audit-reports.md)
+* [Risks](gyroscope-protocol/risks.md)
 
 ## Governance
 
