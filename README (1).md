@@ -55,9 +55,11 @@ Depending on the reserve value covering 100% of the stablecoin supply or not, th
 While the reserve will initially be almost exclusively composed of other stablecoins, this may vary over the longer-term. A large shock to the reserve would only occur if there are even larger problems in other DeFi systems, in which case Gyroscope would aim to provide the least bad outcome.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/Vaults Graphic v4 (1).png" alt="Stylized visualization of the Gyroscope stablecoin reserve"><figcaption><p>Stylized visualization of the Gyroscope stablecoin reserve</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Stylized visualization of the initial Gyroscope stablecoin reserve. The actual reserve may evolve over time.</p></figcaption></figure>
 
 **If there is a large shock to the reserve, then the second line of defense, Gyroscope’s autonomous pricing takes control.** If stablecoin units become undercollateralized, the bonding curve of the redemption market provides _**decreasing redemption quotes**_ as a circuit breaker to maintain a sustainable system. This stability mechanism should rarely be needed, but exists as a contingency plan and is using the multi-market design of Gyroscope which concentrates liquidity within the price quotes of the stablecoin mint/ redeem bonding curves.
+
+
 
 The goal of decreasing redemption quotes is to disincentivize bank-runs and attacks on the currency peg and reward users who wait for a transitory downturn to pass in a sustainable way. While the ability of stablecoin holders to exit is retained, Gyroscope, importantly, _**provides reasons to bet on the stablecoin returning to its target price**_, as the redemption price autonomously recovers back toward peg as outflows equilibrate back toward zero or the reserve recovers (e.g., through yield).
 
@@ -75,4 +77,4 @@ Users form beliefs about the fundamental value of the stablecoin. These are base
 
 Additional products arise from the Gyroscope design. For instance, a highly liquid DEX that can withstand asset failures arises naturally from the Gyroscope design. This design can be conceptualized as a network of secondary-market automated market makers, Reserve Pools and Outside Pools that will allow efficient routing of trades. GYD Trading Pools are redundant, highly-liquid paths in and out of the Gyroscope stablecoin, while the Dynamic Stability Mechanism (DSM) is the mint/ redeem market. For more detailed explanations read the descriptions of the DSM and the GYD Trading Pools.
 
-<figure><img src=".gitbook/assets/SAMM and Reserve Pools Graphic v5.png" alt="Stylized overview of relevant Gyroscope markets"><figcaption><p>Stylized overview of relevant Gyroscope markets</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>Stylized overview of relevant Gyroscope markets</p></figcaption></figure>

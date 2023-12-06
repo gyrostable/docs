@@ -30,11 +30,13 @@ If the available funds are not sufficient to cover the total amount of stablecoi
 * _Via potential revenue from protocol fees, if so decided by the governance_. There might be two protocol fees in Gyroscope: a small fee for minting/ redeeming stablecoins, as well as a fee on revenue that accrues to LPers of Gyroscope's custom AMM pools (called CLPs).
 * _Via a future supply expansion of the stablecoin._ When new stablecoins are minted, the issuance proceeds go completely to the reserve, which also pushes the reserve towards 100% collateralization.
 
-**Gyroscope’s resilience, i.e., its ability to maintain its functionality even if parts of the system fail, and its ability to recover are key elements of the Gyroscope design.** A stylized representation of Gyroscope's reserve configuration is shown below.
+**Gyroscope’s resilience, i.e., its ability to maintain its functionality even if parts of the system fail, and its ability to recover are key elements of the Gyroscope design.** A stylized representation of Gyroscope's initial reserve configuration is shown below.
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Stylized representation of Gyroscope's initial reserve configuration, which may evolve over time.</p></figcaption></figure>
 
+The reserve structure is able to evolve over time as the on-chain asset space evolves. For the purpose of demonstrating reserve stratification principles, a future reserve structure may resemble the following once several newly launched assets reach a larger scale.
 
-<figure><img src="https://lh4.googleusercontent.com/zGmsesY2HeA1dEjnnsGcYnuG9F0zt0m9g9TKyN6z4fF1q0_AT4AwHu5U7CVytLrZyfhU03NBWCFvXrEqh-RLapkMaaHFRe4ZqESVfy_HfiY1rDGoCLIFx8ZjdaMwJLglmvF86RgC5m04uQQGmk7VGw-6CFBDJA66F6cbG5HrYykk6IvIWVpQcnvR6nvegHQwVCE" alt="Stylized representation of Gyroscope&#x27;s reserve configuration"><figcaption><p>stylized representation of Gyroscope's reserve configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>A hypothetical future reserve structure for the purpose of illustrating reserve stratification principles.</p></figcaption></figure>
 
 ## Technical implementation
 
