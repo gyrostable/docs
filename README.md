@@ -1,5 +1,7 @@
 ---
 description: A non-technical overview of Gyroscope
+cover: .gitbook/assets/Discord Invite Image.jpg
+coverY: 0
 ---
 
 # tldr: What is Gyroscope
