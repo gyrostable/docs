@@ -24,6 +24,16 @@ description: '[Last updated 8 December 2023]'
 * `ReserveStewardshipIncentives`: [0x5C73d4E5349ffD392e62fa6BeD994bB449D94F86](https://etherscan.io/address/0x5C73d4E5349ffD392e62fa6BeD994bB449D94F86)
 * `GydRecovery`: [0x2A803cE12bE775802a7c6f50797e53E9C3Fd4025](https://etherscan.io/address/0x2A803cE12bE775802a7c6f50797e53E9C3Fd4025)
 
+## SAMMs
+
+* `GYD/sDAI`: [0x1CCE5169bDe03f3d5aD0206f6BD057953539DAE6](https://etherscan.io/address/0x1CCE5169bDe03f3d5aD0206f6BD057953539DAE6)
+* `GYD/USDC`: [0xC2AA60465BfFa1A88f5bA471a59cA0435c3ec5c1](https://etherscan.io/address/0xC2AA60465BfFa1A88f5bA471a59cA0435c3ec5c1)
+* `GYD/USDT` [0xfbfaD5fa9E99081da6461F36f229B5cC88A64c63](https://etherscan.io/address/0xfbfaD5fa9E99081da6461F36f229B5cC88A64c63)
+
+## Bootstrapping pool
+
+* `GYD/sDAI`: [0x2191Df821C198600499aA1f0031b1a7514D7A7D9](https://etherscan.io/address/0x2191df821c198600499aa1f0031b1a7514d7a7d9)
+
 ## Authentication
 
 * `ProxyAdmin`: [0x581aE43498196e3Dc274F3F23FF7718d287BC2C6](https://etherscan.io/address/0x581aE43498196e3Dc274F3F23FF7718d287BC2C6)
@@ -64,14 +74,3 @@ description: '[Last updated 8 December 2023]'
 * `TellorOracle`: [0xe22188F5d6ACc1dd951Bd20F531624b690F9D9a0](https://etherscan.io/address/0xe22188F5d6ACc1dd951Bd20F531624b690F9D9a0)
 * `UniswapV3TwapOracle`: [0x5AdA07Ff0d2772E202776be8a8EC69ac3345050f](https://etherscan.io/address/0x5AdA07Ff0d2772E202776be8a8EC69ac3345050f)
 
-## SAMMs
-
-* `GYD/sDAI`: [0x1CCE5169bDe03f3d5aD0206f6BD057953539DAE6](https://etherscan.io/address/0x1CCE5169bDe03f3d5aD0206f6BD057953539DAE6)
-* `GYD/USDC`: [0xC2AA60465BfFa1A88f5bA471a59cA0435c3ec5c1](https://etherscan.io/address/0xC2AA60465BfFa1A88f5bA471a59cA0435c3ec5c1)
-* `GYD/USDT` [0xfbfaD5fa9E99081da6461F36f229B5cC88A64c63](https://etherscan.io/address/0xfbfaD5fa9E99081da6461F36f229B5cC88A64c63)
-
-## Bootstrapping pool
-
-
-
-* GYD/sDAI: [0x2191Df821C198600499aA1f0031b1a7514D7A7D9](https://etherscan.io/address/0x2191df821c198600499aa1f0031b1a7514d7a7d9)
