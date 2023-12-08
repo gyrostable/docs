@@ -54,11 +54,15 @@
   * [Emergency Recovery](governance/optimistic-approval/emergency-recovery.md)
   * [Limiting Upgradeability](governance/optimistic-approval/limiting-upgradeability.md)
 * [Official channels](governance/official-channels.md)
-* [Deployed contracts](governance/deployed-contracts.md)
 
 ## Gyro Proto
 
 * [Gyro Proto](gyro-proto/gyro-proto.md)
 * [Walk-through](gyro-proto/walk-through.md)
-* [Contract addresses](gyro-proto/contract-addresses.md)
 * [DSM error codes](gyro-proto/dsm-error-codes.md)
+
+## Deployed Contracts
+
+* [Core protocol](deployed-contracts/core-protocol.md)
+* [Governance (coming soon)](deployed-contracts/governance-coming-soon.md)
+* [Gyro Proto](deployed-contracts/contract-addresses.md)
