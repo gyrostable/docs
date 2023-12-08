@@ -2,7 +2,7 @@
 description: Key Polygon contract addresses of Gyro Proto
 ---
 
-# Contract addresses
+# Gyro Proto
 
 \[Last updated 24 Jan 2023]
 

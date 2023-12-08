@@ -63,6 +63,6 @@
 
 ## Deployed Contracts
 
-* [Core protocol](deployed-contracts/core-protocol.md)
-* [Governance (coming soon)](deployed-contracts/governance-coming-soon.md)
-* [Gyro Proto](deployed-contracts/contract-addresses.md)
+* [GYD Core](deployed-contracts/gyd-core.md)
+* [Governance (coming soon)](governance/deployed-contracts.md)
+* [Gyro Proto](gyro-proto/contract-addresses.md)

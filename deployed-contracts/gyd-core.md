@@ -2,7 +2,7 @@
 description: '[Last updated 8 December 2023]'
 ---
 
-# Core protocol
+# GYD Core
 
 ## Core Protocol
 

@@ -1,3 +1,0 @@
-# Deployed contracts
-
-\[Update]
