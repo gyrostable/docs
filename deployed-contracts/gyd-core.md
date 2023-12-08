@@ -69,3 +69,9 @@ description: '[Last updated 8 December 2023]'
 * `GYD/sDAI`: [0x1CCE5169bDe03f3d5aD0206f6BD057953539DAE6](https://etherscan.io/address/0x1CCE5169bDe03f3d5aD0206f6BD057953539DAE6)
 * `GYD/USDC`: [0xC2AA60465BfFa1A88f5bA471a59cA0435c3ec5c1](https://etherscan.io/address/0xC2AA60465BfFa1A88f5bA471a59cA0435c3ec5c1)
 * `GYD/USDT` [0xfbfaD5fa9E99081da6461F36f229B5cC88A64c63](https://etherscan.io/address/0xfbfaD5fa9E99081da6461F36f229B5cC88A64c63)
+
+## Bootstrapping pool
+
+
+
+* GYD/sDAI: [0x2191Df821C198600499aA1f0031b1a7514D7A7D9](https://etherscan.io/address/0x2191df821c198600499aa1f0031b1a7514d7a7d9)
