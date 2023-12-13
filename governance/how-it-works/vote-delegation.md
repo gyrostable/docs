@@ -8,7 +8,7 @@ This means you don't have to get directly involved in every decision taken by th
 
 ### DAO Delegates
 
-DAO Delegates are individuals who have been nominated, whether by themselves or by others, to represent others. You can see the current DAO delegates here \[INSERT LINK]. You can choose to delegate your voting power to a delegate who you think will represent your interests best.&#x20;
+DAO Delegates are individuals who have been nominated, whether by themselves or by others, to represent others. You can see the current DAO delegates [here](https://gov.gyro.finance/delegate/). You can choose to delegate your voting power to a delegate who you think will represent your interests best.&#x20;
 
 
 

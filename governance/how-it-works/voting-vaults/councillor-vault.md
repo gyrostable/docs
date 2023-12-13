@@ -15,6 +15,6 @@ Councillors are individuals who were invited to be part of Gyroscope governance 
 
 Selected addresses are eligible to claim a Councillor NFT. Together, the Councillors make up a key part of Gyroscope governance, so each NFT is a square of the image below.
 
-Councillor NFTs can be claimed here <mark style="background-color:yellow;">\[INSERT LINK]</mark>.
+Councillor NFTs can be claimed [here](https://gov.gyro.finance/vaults/).
 
 <figure><img src="../../../.gitbook/assets/Gov NFT Website Size.png" alt=""><figcaption></figcaption></figure>
