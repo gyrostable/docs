@@ -28,6 +28,12 @@ An intuitive way of thinking about 3-CLPs is to imagine a pool that combines two
 
 <figure><img src="../../.gitbook/assets/3-CLP-v4.gif" alt="Stylized representation of capital efficiency gains of 3-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 3-CLPs</p></figcaption></figure>
 
+* _**E-CLPs**_ - aka [Elliptic-CLPs](./)[ ](e-clps.md)support asymmetric concentrated liqudity for two assets. They provide a new type of concentrated liquidity that allows highly flexible and asymmetric liquidity profiles in a single pool position.
+
+<figure><img src="../../.gitbook/assets/E-CLP-liquidity-density-animated-chart-v6.gif" alt=""><figcaption><p>The E-CLP's asymmetric concentrated liquidity improves capital efficiency over StableSwap by putting liquidity only where it is needed.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Rate-providers-v8.gif" alt=""><figcaption><p>E-CLP rate providers make yield-bearing asset pools more efficient by automating liquidity management and mitigating LVR.</p></figcaption></figure>
+
 ## **Users of CLPs**
 
 **Stakeholders can use the Gyroscope CLPs in different, yet mutually beneficial ways:**
