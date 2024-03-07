@@ -1,5 +1,5 @@
 ---
-description: Elliptic Liquidity Pools or E-CLPs
+description: Elliptic Liquidity Pools or E-CLPs for asymmetric concentrated liquidity
 ---
 
 # E-CLPs
@@ -8,7 +8,7 @@ description: Elliptic Liquidity Pools or E-CLPs
 
 **Elliptic CLPs, or E-CLPs, allow trading along the curve of an ellipse. E-CLPs will be used for stablecoin pools that include the Gyroscope stablecoin, GYD.**
 
-Elliptic CLPs, or E-CLPs, allow trading along the curve of an ellipse. Similar to other CLPs, E-CLPs are designed to concentrate liquidity within price bounds. The difference is that E-CLP liquidity is more flexible: it can be further focused and not spread uniformly across the price range.
+Elliptic CLPs, or E-CLPs, allow trading along the curve of an ellipse. Similar to other CLPs, E-CLPs are designed to concentrate liquidity within price bounds. The difference is that E-CLP liquidity is more flexible: it can be further focused asymmetrically and not spread uniformly across the price range.
 
 E-CLPs will be used for GYD trading markets, which are pools that pair GYD against other assets, and are calibrated to provide liquidity primarily around the peg, but with price bounds tailored to DSM redemption prices.
 
@@ -22,13 +22,17 @@ By performing different manipulations on a circle, the E-CLP can be calibrated t
 
 The below visual representation shows how the E-CLP can be calibrated to have price-bounds, an upper ceiling of 1 USD, and an unevenly decaying price below 1 USD.
 
-<figure><img src="../../.gitbook/assets/E-CLP-v1 (2) (1).gif" alt="Stylized visualztion of an E-CLP with price-bounds, an upper ceiling of 1 USD, and an unevenly decaying price below 1 USD.Reduc"><figcaption><p>Stylized visualztion of an E-CLP with price-bounds, an upper ceiling of 1 USD, and an unevenly decaying price below 1 USD.Reduc</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/E-CLP-v1 (2) (1).gif" alt="Stylized visualztion of an E-CLP with price-bounds, an upper ceiling of 1 USD, and an unevenly decaying price below 1 USD.Reduc"><figcaption><p>Stylized visualztion of an E-CLP with price-bounds, an upper ceiling of 1 USD, and an unevenly decaying price below 1 USD.</p></figcaption></figure>
+
+E-CLPs are simple and efficient. By putting liquidity only where it is needed, E-CLPs can improve capital efficiency by upwards of 75% over StableSwap pools.
+
+<figure><img src="../../.gitbook/assets/E-CLP-liquidity-density-animated-chart-v6.gif" alt=""><figcaption><p>The E-CLP's asymmetric concentrated liquidity improves capital efficiency over StableSwap by putting liquidity only where it is needed.</p></figcaption></figure>
 
 ## Benefits of E-CLPs
 
 E-CLPs have two main properties, price bounds and an uneven liquidity profile between the price bounds. These properties allow pools with highly customizable liquidity profiles, which can greatly increase capital efficiency in the most commonly expected trading ranges.
 
-**Customizable liquidity profiles**: Using the curve of an ellipse allows highly customizable liquidity profiles. E-CLPs can be calibrated to approximate most trading curves that would be desired. E-CLP curves can be tailored to have certain regions of low price impact and other regions of high price impact.
+**Customizable liquidity profiles**: Using the curve of an ellipse allows highly customizable and _asymmetric_ liquidity profiles. E-CLPs can be calibrated to approximate most trading curves that would be desired. E-CLP curves can be tailored to have certain regions of low price impact and other regions of high price impact.
 
 For instance, E-CLPs can be made to resemble the liquidity profiles of Stableswap curves as well as constant product curves and a flexible combination of these.
 
@@ -41,6 +45,13 @@ For example, if an asset has known minting and redemption prices, order flow bey
 
 In cases like this, using untruncated trading curves, such as calibrating a Stableswap curve for this situation, leads to a much less efficient outcome as liquidity is implicitly provided at unnecessary prices and thus remains unused compared to the flexibility of an E-CLP.
 {% endhint %}
+
+**Efficiency for yield-bearing assets**: E-CLPs boost efficiency on several fronts. In addition to asymmetric concentrated liquidity, E-CLPs build in rate providers. Rate providers make yield-bearing asset pools more efficient by:
+
+* automating liquidity management
+* mitigating loss vs rebalancing (LVR)
+
+<figure><img src="../../.gitbook/assets/Rate-providers-v8.gif" alt=""><figcaption><p>E-CLP rate providers make yield-bearing asset pools more efficient by automating liquidity management and mitigating LVR.</p></figcaption></figure>
 
 **Benefits of E-CLPs for Gyroscope**: The capital efficiency gains of the E-CLP are particularly large for GYDGyro tradingMoney mMarket pools, which pair GYD with other assets. GYD should normally trade between the minting price of $1 and the redemption price. In most cases, GYD should trade near $1. In niche situations, however, like under contingency pricing in the DSM, the redemption price may be at a discount. An E-CLP can be calibrated for this precise liquidity profile bounded by minting and redemption prices. In comparison, a Stableswap pool would reserve half of its liquidity for prices above $1 whereas such liquidity is unnecessary.
 
