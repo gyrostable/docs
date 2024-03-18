@@ -66,3 +66,7 @@
 * [GYD Core](deployed-contracts/gyd-core.md)
 * [Governance (coming soon)](governance/deployed-contracts.md)
 * [Gyro Proto](gyro-proto/contract-addresses.md)
+
+***
+
+* [Press kit](press-kit.md)
