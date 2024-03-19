@@ -14,6 +14,8 @@ Rehype pools work by incorporating lending deposits like Aave aUSDC in a simple 
 
 Rehype pools combine many yield sources into one form that can itself be used as productive collateral in other protocols in the form of pool shares. At the same time, rehypothecation in these pools is transparent and user controlled, in contrast to common rehypothecation practices that give issues in TradFi.
 
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Rehype pools combine many yield sources into one</p></figcaption></figure>
+
 ## GYD and Rehype Pools
 
 ​​GYD Rehype pools enable the scaling of more robust risk-adjusted yield sources for a decentralized stablecoin in a market that is increasingly dominated by centralized actors. They layer decentralized yield sources on top of each other, removing opportunity costs to lower the cost of capital for GYD liquidity.
