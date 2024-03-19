@@ -20,6 +20,7 @@
   * [2-CLPs](gyroscope-protocol/concentrated-liquidity-pools/2-clps.md)
   * [3-CLPs](gyroscope-protocol/concentrated-liquidity-pools/3-clps.md)
   * [E-CLPs](gyroscope-protocol/concentrated-liquidity-pools/e-clps.md)
+  * [Rehype E-CLPs](gyroscope-protocol/concentrated-liquidity-pools/rehype-e-clps.md)
 * [Technical Documents](gyroscope-protocol/technical-documents/README.md)
   * [Consolidated price feed](gyroscope-protocol/technical-documents/consolidated-price-feed.md)
 * [Learn more](gyroscope-protocol/learn-more.md)
