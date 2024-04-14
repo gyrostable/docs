@@ -5,7 +5,7 @@ coverY: 0
 
 # GYD LP Vault
 
-Those who provide GYD to selected secondary market trading pools can also have voting power in the governance system.&#x20;
+Those who provide GYD to selected secondary market trading pools can also have voting power in the governance system. To participate in governance, LPs stake their LP shares in the relevant voting vault, which is subject to an unstaking period.
 
 ## Why?
 
