@@ -16,6 +16,10 @@ The stablecoin system endeavours to keep the vaults to the correct proportions b
 * **Current weights**: the actual/current weight of a vault. For example, if the total USD value of the reserve is 100 USD and one vault contains 35 USD, then the current weight of that vault would be 35%.
 * **Resulting weights**: the weight for each vault that would result if a particular mint or redeem were to occur.
 
+{% hint style="info" %}
+To read current reserve weights you can query[`getReserveState`](https://etherscan.io/address/0x2519A729535470830D345b78109818F94C1c2869#readContract)and reference [`currentWeight`](https://github.com/gyrostable/gyd-core/blob/main/libraries/DataTypes.sol#L99). The current and target reserve weights are also visualized in the UI during the [minting GYD](https://app.gyro.finance/dsm/) process.
+{% endhint %}
+
 ## Reserve Weight Epsilon
 
 Each vault is permitted to deviate from the ideal weight by a percentage. For example, for a vault with an ideal weight of 20% may be allowed to vary by 10% from that ideal weight (so +/- 2% of the total reserve value). This permitted variation is what we call **epsilon**.
