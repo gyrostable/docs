@@ -1,6 +1,10 @@
 # Audit Reports
 
-## Latest audit report
+The GYD system was audited 4 times: twice by Nethermind and once each by Runtime Verification and Trail of Bits.
+
+E-CLPs underwent 3 audits: by Nethermind, Runtime Verification, and Trail of Bits.
+
+## Latest audit reports
 
 * [**Security Review: Protocol**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM0094-GYROSCOPE-PROTOCOL-FINAL.pdf) - Nethermind - 08/15/2023
 * [**Security Review: Governance**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM0076-GYROSCOPE-GOVERNANCE-FINAL.pdf) - Nethermind - 08/15/2023
