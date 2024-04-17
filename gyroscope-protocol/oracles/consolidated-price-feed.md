@@ -12,6 +12,8 @@ It is thus a framework for hardening blockchain price feeds by consolidating inf
 
 In effect, multiple consistency checks are applied that reference multiple, deep on-chain markets, which adds a quantifiable cost to manipulating price feeds. At the heart of these checks is the idea to define a relative price level via on-chain references to AMMs and then ground that price level by cross-referencing it against a variety of oracles.
 
+<figure><img src="../../.gitbook/assets/cpf-approach.png" alt=""><figcaption><p>The CPF approach validates <em>likelihood</em> of oracle integrity. Protocols who use the CPF receive both oracle price estimates and a signal about how whether these price estimates are suspected of being incorrect.</p></figcaption></figure>
+
 ## Technical Specification
 
 To read about the mathematical specification and implementation, see the section below.
@@ -28,6 +30,8 @@ The Consolidated Price Feed consolidates data from four different types of sourc
 * AMM TWAPs. These TWAPs do not require trust, as they exist on-chain and do not require a relay. However, they are manipulable and slow tracking estimates of price.
 * Exchange-signed prices. Since the signatures for these prices can be verified on-chain, the relay for these prices does not need to be trusted, though the data provider (i.e., the exchange) is a trusted counterparty.
 * Observing changes to protocol state. The information about how agents interact with the protocol is observable completely on-chain with no trust assumptions. Unusual behavior can be used to flag suspicious settings when oracle prices may be wrong.
+
+<figure><img src="../../.gitbook/assets/cpf-architecture.png" alt=""><figcaption><p>Structure of Gyroscope's CPF.</p></figcaption></figure>
 
 ## Consolidation Mechanism
 
