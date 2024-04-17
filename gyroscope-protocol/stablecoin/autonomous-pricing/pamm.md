@@ -1,14 +1,18 @@
 ---
-description: Minting and redeeming of stablecoin units
+description: >-
+  Minting and redeeming of stablecoins with resilience to bank run and depeg
+  risks
 ---
 
 # Dynamic Stability Mechanism
+
+{% embed url="https://youtu.be/Gmxm2ij8MSI?si=z0dUIJBCtWb_qqvP" %}
 
 ## Overview
 
 Stablecoin units can be minted and redeemed in the Dynamic Stability Mechanism (DSM).
 
-There is no central issuer. Users can mint and redeem stablecoin units directly against the permissionless Gyroscope system. There is no counterparty.
+There is no central issuer. Users can mint and redeem stablecoin units directly against the permissionless and transparent Gyroscope system. There is no counterparty.
 
 The shape of the DSM (i.e., the bonding curves that quote prices to mint/ redeem) is a function of the current reserve ratio and outflows.
 
