@@ -6,6 +6,8 @@ description: >-
 
 # Rehype E-CLPs
 
+<figure><img src="../../.gitbook/assets/Boosted-E-CLPs.gif" alt=""><figcaption><p>Rehype pools combine several yield sources into a single pool.</p></figcaption></figure>
+
 ## Description of Rehype E-CLPs
 
 Gyroscope’s Rehype pools increase LP yields by combining asymmetric concentrated liquidity with auto-rehypothecation to lending protocols, improving capital efficiency on two fronts. They allow LPs to triple dip in yield sources by layering swap yields from concentrated liquidity on top of lending yields on top of token incentive markets.

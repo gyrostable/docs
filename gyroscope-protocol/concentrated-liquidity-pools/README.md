@@ -34,6 +34,8 @@ An intuitive way of thinking about 3-CLPs is to imagine a pool that combines two
 
 <figure><img src="../../.gitbook/assets/Rate-providers-v8.gif" alt=""><figcaption><p>E-CLP rate providers make yield-bearing asset pools more efficient by automating liquidity management and mitigating LVR.</p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Boosted-E-CLPs (1).gif" alt=""><figcaption><p>Rehype pools combine multiple yield sources in a single pool.</p></figcaption></figure>
+
 ## **Users of CLPs**
 
 **Stakeholders can use the Gyroscope CLPs in different, yet mutually beneficial ways:**
