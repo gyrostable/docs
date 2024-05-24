@@ -56,6 +56,8 @@ For the CLPs, this risk can be higher than for a pool without concentrated liqui
 In the case of a price jump, more arbitrage is enabled. If, however, the price later returns to the initial price this loss is not realized and the pool profits from trading fees.
 {% endhint %}
 
+One facet of adverse selection risk for any AMM pool, including CLPs: LPs who join a pool while the pool is off balance from the market price may incur an adverse selection loss as this contributes to an arbitrage opportunity in the pool. Best practice is to check that the spot price in the pool is near the market price when joining a pool. Should the pool’s spot price diverge from the market price significantly, an LP would benefit from swapping first in the pool to bring it to the market price before adding liquidity.
+
 ## Technical Specification
 
 To read about the mathematical specification and implementation, see the below resources

@@ -75,6 +75,8 @@ Using E-CLPs also comes with certain risks, including smart contract risk, strat
 
 **Adverse selection risk:** In any AMM pool, if the true relative market price between assets in the pool jumps permanently, LPers incur a loss due to adverse selection. In particular, the pool is left offering 'stale' quotes at worse than true market price. The adverse selection loss will be equal to the profit to arbitrageurs for moving the pool's quoted price back into equilibrium with the rest of the market.
 
+One facet of adverse selection risk for any AMM pool, including CLPs: LPs who join a pool while the pool is off balance from the market price may incur an adverse selection loss as this contributes to an arbitrage opportunity in the pool. Best practice is to check that the spot price in the pool is near the market price when joining a pool. Should the pool’s spot price diverge from the market price significantly, an LP would benefit from swapping first in the pool to bring it to the market price before adding liquidity.
+
 ## Technical Specification
 
 All of the most important functions are defined in the file GyroECLPMath.sol and listed in the below table.
