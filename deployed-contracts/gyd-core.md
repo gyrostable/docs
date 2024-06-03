@@ -24,6 +24,11 @@ description: '[Last updated 8 December 2023]'
 * `ReserveStewardshipIncentives`: [0x5C73d4E5349ffD392e62fa6BeD994bB449D94F86](https://etherscan.io/address/0x5C73d4E5349ffD392e62fa6BeD994bB449D94F86)
 * `GydRecovery`: [0x2A803cE12bE775802a7c6f50797e53E9C3Fd4025](https://etherscan.io/address/0x2A803cE12bE775802a7c6f50797e53E9C3Fd4025)
 
+## GYD on L2s
+
+* `GYD on Polygon zkEVM`: [0xca5d8f8a8d49439357d3cf46ca2e720702f132b8](https://zkevm.polygonscan.com/address/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8)
+* `GYD on Arbitrum`: [0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8](https://arbiscan.io/address/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8)
+
 ## SAMMs
 
 * `GYD/sDAI`: [0x1CCE5169bDe03f3d5aD0206f6BD057953539DAE6](https://etherscan.io/address/0x1CCE5169bDe03f3d5aD0206f6BD057953539DAE6)
