@@ -4,8 +4,12 @@ The GYD system was audited 4 times: twice by Nethermind and once each by Runtime
 
 E-CLPs underwent 3 audits: by Nethermind, Runtime Verification, and Trail of Bits.
 
+The bridge infrastructure and sGYD have been audited by Nethermind.&#x20;
+
 ## Latest audit reports
 
+* [**Security Review: Bridges**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM0255\_GYROSCOPE%20\_FINAL.pdf) - Nethermind - 25/6/2024
+* [**Security Review: sGYD**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM0264\_GYRO\_SGYD.pdf) - Nethermind - 18/7/2024
 * [**Security Review: Protocol**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM0094-GYROSCOPE-PROTOCOL-FINAL.pdf) - Nethermind - 08/15/2023
 * [**Security Review: Governance**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM0076-GYROSCOPE-GOVERNANCE-FINAL.pdf) - Nethermind - 08/15/2023
 * [**Security Review: E-CLPs**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM-0055%20Security%20Review%20-%20Gyroscope%20CEMM.pdf) - Nethermind - 08/17/2022
