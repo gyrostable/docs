@@ -6,6 +6,7 @@ description: A place to aggregate additional educational content
 
 | Title                                     | Type                                                                          | Link                                                                                                   |
 | ----------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| ChainRisk dashboard                       | Community dashboard                                                           | [link](https://community.chainrisk.xyz/gyro/overview)                                                  |
 | Gyroscope at a glance                     | Infographic                                                                   | [link](https://twitter.com/GyroStable/status/1588459448905142274?s=20\&t=0Y5Kl7Y6oi40g7mfwiuOGQ)       |
 | Explain Gyroscope Like I'm 5              | Series of written explanations of Gyroscope                                   | <p><a href="https://medium.com/gyroscope-protocol/eli5-series-gyroscope-63cc0e7b272d">link</a><br></p> |
 | ELI5 videos                               | Series of videos                                                              | [link](https://youtube.com/playlist?list=PLyUeYuKUDm3nnzySNrnj9VL1ypbuMZlY1)                           |
