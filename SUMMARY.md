@@ -27,6 +27,7 @@
   * [Code Repositories and Audits](gyroscope-protocol/sgyd-and-reserve-yield-emission/code-repositories-and-audits.md)
   * [sGYD Internals](gyroscope-protocol/sgyd-and-reserve-yield-emission/sgyd-internals.md)
   * [Risks](gyroscope-protocol/sgyd-and-reserve-yield-emission/risks.md)
+  * [Code repositories](gyroscope-protocol/sgyd-and-reserve-yield-emission/code-repositories.md)
 * [Technical Documents](gyroscope-protocol/technical-documents/README.md)
   * [Consolidated price feed](gyroscope-protocol/technical-documents/consolidated-price-feed.md)
 * [Learn more](gyroscope-protocol/learn-more.md)
