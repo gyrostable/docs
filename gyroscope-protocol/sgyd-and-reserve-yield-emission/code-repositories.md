@@ -1,11 +1,9 @@
 # Code repositories
 
-## sGYD smart contracts
+## Smart Contracts
 
 {% embed url="https://github.com/gyrostable/sgyd" %}
 
-## sGYD yield calculation script
-
-
+## Yield Calculation and Submission Scripts
 
 {% embed url="https://github.com/gyrostable/reserve-yield-emission-scripts" %}

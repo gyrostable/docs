@@ -17,7 +17,7 @@ The distribution of reserve yield is a security-sensitive process. Because of th
 The system also implements various sanity checks to protect against yet-unknown attack vectors that might attempt to create excessive emissions. Specifically:
 
 * Each individual distribution can emit at most 1% of the total GYD supply (see GydDistributor.maxRate()).
-* At most one distribution can be made every 24 hours to the same venue (see GydDistributor.minimumDistributionInterval())
+* At most one distribution can be made within a defined time interval to the same venue (see GydDistributor.minimumDistributionInterval()). At launch, this interval will be set to 1 hour; medium-term, it will be set to 24h.
 * For sGYD, streams (see below) cannot have pathological parameters; specifically, streams need to distribute at least 1 GYD, the time frame needs to be between 1 hour and 5 years, and there can be at most 10 active or pending streams in total.
 
 sGYD is upgradable by protocol governance. The Distributor and L2Distributor contracts are not upgradable. All of these contracts follow a role-based access control model with the governance system as the administrator.

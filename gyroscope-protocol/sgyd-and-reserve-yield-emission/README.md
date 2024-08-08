@@ -35,8 +35,8 @@ See below for details on how exactly the yield to pools is computed and emitted.
 [security.md](security.md)
 {% endcontent-ref %}
 
-{% content-ref url="code-repositories-and-audits.md" %}
-[code-repositories-and-audits.md](code-repositories-and-audits.md)
+{% content-ref url="audit-report.md" %}
+[audit-report.md](audit-report.md)
 {% endcontent-ref %}
 
 {% content-ref url="sgyd-internals.md" %}
