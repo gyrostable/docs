@@ -1,3 +1,0 @@
-# Governance (coming soon)
-
-\[Update]

@@ -76,7 +76,7 @@
 
 * [Pools](deployed-contracts/pools.md)
 * [GYD Core](deployed-contracts/gyd-core.md)
-* [Governance (coming soon)](governance/deployed-contracts.md)
+* [Governance](deployed-contracts/governance.md)
 * [Gyro Proto](gyro-proto/contract-addresses.md)
 
 ***
