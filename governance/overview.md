@@ -45,7 +45,7 @@ Votes can also be delegated.
 
 ## How governance happens
 
-Participants in the governance system make [proposals](how-it-works/proposals.md), which are discussed and voted on.&#x20;
+Participants in the governance system make [proposals](how-it-works/proposals.md), which are discussed in the [forum](https://forum.gyro.finance/) and voted on.&#x20;
 
 Some changes need more voters (higher quorum) and of the voters, a higher proportion of agreement in order to pass. This is because some governance actions are low-risk and routine, such as deciding on the recipient of a community grant, while others are high-impact and may implement changes to the entire protocol. See [action tiering](how-it-works/action-tiering.md) to learn more about this.
 
