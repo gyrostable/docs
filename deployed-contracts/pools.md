@@ -42,7 +42,12 @@
     * Factory: [0x5d56ea1b2595d2dbe4f5014b967c78ce75324f0c](https://zkevm.polygonscan.com/address/0x5d56ea1b2595d2dbe4f5014b967c78ce75324f0c)
 
 
-* Gnosis Chain:&#x20;
-  * Config: [0x00A2a9BBD352Ab46274433FAA9Fec35fE3aBB4a8](https://gnosisscan.io/address/0x00A2a9BBD352Ab46274433FAA9Fec35fE3aBB4a8)
-  * Factory: [0x5d3be8aae57bf0d1986ff7766cc9607b6cc99b89](https://gnosisscan.io/address/0x5d3be8aae57bf0d1986ff7766cc9607b6cc99b89)
+*   Gnosis Chain:&#x20;
 
+    * Config: [0x00A2a9BBD352Ab46274433FAA9Fec35fE3aBB4a8](https://gnosisscan.io/address/0x00A2a9BBD352Ab46274433FAA9Fec35fE3aBB4a8)
+    * Factory: [0x5d3be8aae57bf0d1986ff7766cc9607b6cc99b89](https://gnosisscan.io/address/0x5d3be8aae57bf0d1986ff7766cc9607b6cc99b89)
+
+
+* Avalanche:
+  * Config: [0x8A5eB9A5B726583a213c7e4de2403d2DfD42C8a6](https://snowtrace.io/address/0x8A5eB9A5B726583a213c7e4de2403d2DfD42C8a6)
+  * Factory: [0x41E9ac0bfed353c2dE21a980dA0EbB8A464D946A](https://snowtrace.io/address/0x41E9ac0bfed353c2dE21a980dA0EbB8A464D946A)
