@@ -82,3 +82,4 @@
 ***
 
 * [Press kit](press-kit.md)
+* [Licensing](licensing.md)
