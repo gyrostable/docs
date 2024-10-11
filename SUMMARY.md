@@ -57,13 +57,14 @@
     * [GYD LP Vault](governance/how-it-works/voting-vaults/gyd-lp-vault.md)
     * [GYFI Vault](governance/how-it-works/voting-vaults/gyfi-vault.md)
   * [Action Tiering](governance/how-it-works/action-tiering.md)
-  * [Proposals](governance/how-it-works/proposals.md)
+  * [On-chain proposals](governance/how-it-works/on-chain-proposals.md)
   * [Vote delegation](governance/how-it-works/vote-delegation.md)
   * [Conditional cashflows](governance/how-it-works/conditional-cashflows.md)
   * [GYD Recovery Module](governance/how-it-works/gyd-recovery-module.md)
 * [Optimistic Approval](governance/optimistic-approval/README.md)
   * [Emergency Recovery](governance/optimistic-approval/emergency-recovery.md)
   * [Limiting Upgradeability](governance/optimistic-approval/limiting-upgradeability.md)
+* [Governance process](governance/governance-process.md)
 * [Official channels](governance/official-channels.md)
 
 ## Gyro Proto
