@@ -36,7 +36,7 @@ Anyone can think of an idea and write it up as a post in the Gyroscope Improveme
 
 **Guidelines**
 
-1. The title should be in the format “\[Temperature Check] -  Topic”
+1. The title should be in the format “\[Indicative Vote] -  Topic”
 2. The body should contain the following sections:
    1. **Background/motivation**
    2. **Summary of proposal**: A clear and easy to understand description of the proposed change, and how the change would affect the protocol
