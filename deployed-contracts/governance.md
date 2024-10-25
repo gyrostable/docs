@@ -7,7 +7,7 @@
 * `MultiownerProxyAdmin`: [0x71260fce6c16fb7b3481BAFb64377c2aAdc4F961](https://etherscan.io/address/0x71260fce6c16fb7b3481BAFb64377c2aAdc4F961)
 * `GovernanceManager`: [0x78EcF97572c3890eD02221A611014F30219f6219](https://etherscan.io/address/0x78EcF97572c3890eD02221A611014F30219f6219)
   * Implementation: [0x587B602F38e18c1E2626f19fF61c70e935a684a7](https://etherscan.io/address/0x587B602F38e18c1E2626f19fF61c70e935a684a7)
-* `VotingPowerAggreagtor`: [0xA015A8c96f45758614C4077813dC863a74cb1487](https://etherscan.io/address/0xA015A8c96f45758614C4077813dC863a74cb1487)
+* `VotingPowerAggregator`: [0xA015A8c96f45758614C4077813dC863a74cb1487](https://etherscan.io/address/0xA015A8c96f45758614C4077813dC863a74cb1487)
 * `BoundedERC20WithEMA`: [0xE4c243ECC7A0fBa69006855E0a02232e02efb1e4](https://etherscan.io/address/0xE4c243ECC7A0fBa69006855E0a02232e02efb1e4)
 * `ActionTierConfig`: [0x8342b910815b0127c98e7717d4276c1d393478b6](https://etherscan.io/address/0x8342b910815b0127c98e7717d4276c1d393478b6)
 * `EmergencyRecovery`: [0x70d3ec9fF6CB962246072FA9d18153FDF6f1215d](https://etherscan.io/address/0x70d3ec9fF6CB962246072FA9d18153FDF6f1215d)
