@@ -10,8 +10,6 @@ This page describes the process that should be followed to take an idea to imple
 
 **Step 3:** Final on-chain vote
 
-<figure><img src="../.gitbook/assets/Gov Process Flow Chart.png" alt=""><figcaption></figcaption></figure>
-
 ## Step 1 - Consultation
 
 Anyone can think of an idea and write it up as a post in the Gyroscope Improvement Proposals section of the [Gyroscope Forum](https://forum.gyro.finance/c/gip/6).
@@ -30,7 +28,7 @@ Anyone can think of an idea and write it up as a post in the Gyroscope Improveme
 2. Any Gyroscope Governance participant with more than 10 GGU can extend the minimum consultation time period to 7 days. This is to allow more consultation time for potentially complex topics if needed.
 3. If the Consultation goes stale or the creator of the proposal does not create a Snapshot proposal, after 4 weeks elapses the post will be closed.&#x20;
 
-## Step 2 - Indicative vote on Snapshot
+## Step 2 - Snapshot Vote
 
 **Requirements**
 
@@ -38,7 +36,9 @@ Anyone can think of an idea and write it up as a post in the Gyroscope Improveme
 
 **Guidelines**
 
-1. The title should be in the format “\[Indicative Vote] -  Topic”
+1. The title should be one of two formats:
+   1. If the proposal is for an **off-chain change** to Gyroscope, and therefore the final vote, the title should be in the format “\[GIP-xxx] -  Topic”
+   2. If the proposal is for an **on-chain change**, the title should be in the format “\[Indicative Vote] -  Topic”. The vote is indicative because in order for any change to be enacted on-chain, it will need to pass an on-chain governance vote. The set of eligible voters is the same.
 2. The body should contain the following sections:
    1. **Background/motivation**
    2. **Summary of proposal**: A clear and easy to understand description of the proposed change, and how the change would affect the protocol
@@ -49,19 +49,17 @@ Anyone can think of an idea and write it up as a post in the Gyroscope Improveme
 **Timeline**
 
 1. Voting runs for 96 hours starting on Thursdays.
-2. Quorum is set to 100 GGU.&#x20;
-3. If the outcome of the vote is yes and quorum is met move to Step 3 - Final on-chain vote.
+2. Quorum is set to 300 GGU for Indicative votes and higher for Final votes.&#x20;
+3. If the vote passes with quorum:
+   1. If the Snapshot vote is a \[GIP-xxx], then the DAO has now reached its decision and the off-chain change is recommended to be implemented.
+   2. If the vote is an \[Indicative Vote] then move to Step 3 - Final on-chain vote.
 
 ## Step 3 - Final on-chain vote
-
-**Requirements**
-
-To move to Step 3, the proposal should have met quorum and received a 'yes' vote on Step 2.
 
 **Guidelines**
 
 1. A new post should be created on the [Gyroscope Governance forum](https://forum.gyro.finance/c/gip/6).
-2. The title should be in the format “\[GIP-1] - Topic”
+2. The title should be in the format “\[GIP-xxx] - Topic”
 3. The body should contain the following sections:
    1. **Background/motivation**
    2. **Summary of proposal**: A clear and easy to understand description of the proposed change, and how the change would affect the protocol.
@@ -70,7 +68,7 @@ To move to Step 3, the proposal should have met quorum and received a 'yes' vote
       1. A link to a PR, opened in the relevant [Gyroscope repository](https://github.com/gyrostable), that would implement the change(s) as described in the proposal.
       2. A link to the Proposal, as implemented by the PR, on the Gyroscope Governance [dashboard](https://gov.gyro.finance/). Sufficient governance power in terms of GGU is needed to be able to create a proposal.
       3. A link to the original Consultation from Step 1.
-      4. A link to the Indicative vote from Step 2.
+      4. A link to the Indicative Vote from Step 2.
 
 **Timeline**
 
