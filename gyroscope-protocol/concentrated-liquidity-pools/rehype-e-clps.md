@@ -18,6 +18,8 @@ Rehype pools combine many yield sources into one form that can itself be used as
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Rehype pools combine many yield sources into one</p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Order-Routing-in-Rehype-Pools.gif" alt=""><figcaption><p>How Rehype pools route orders in underlying assets.</p></figcaption></figure>
+
 ## GYD and Rehype Pools
 
 ​​GYD Rehype pools enable the scaling of more robust risk-adjusted yield sources for a decentralized stablecoin in a market that is increasingly dominated by centralized actors. They layer decentralized yield sources on top of each other, removing opportunity costs to lower the cost of capital for GYD liquidity.
