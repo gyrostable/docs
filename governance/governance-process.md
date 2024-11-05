@@ -10,6 +10,8 @@ This page describes the process that should be followed to take an idea to imple
 
 **Step 3:** Final on-chain vote
 
+<figure><img src="../.gitbook/assets/Gov Process v2.png" alt=""><figcaption></figcaption></figure>
+
 ## Step 1 - Consultation
 
 Anyone can think of an idea and write it up as a post in the Gyroscope Improvement Proposals section of the [Gyroscope Forum](https://forum.gyro.finance/c/gip/6).
