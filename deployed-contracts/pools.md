@@ -2,7 +2,7 @@
 
 ## Individual E-CLP addresses
 
-* For an exhaustive list of all deployed E-CLPs refer to [Dune](https://dune.com/gyro\_finance/gyroscope-e-clps).
+* For an exhaustive list of all deployed E-CLPs refer to [Dune](https://dune.com/gyro_finance/gyroscope-e-clps).
 
 ## Key E-CLP addresses
 
@@ -51,3 +51,9 @@
 * Avalanche:
   * Config: [0x8A5eB9A5B726583a213c7e4de2403d2DfD42C8a6](https://snowtrace.io/address/0x8A5eB9A5B726583a213c7e4de2403d2DfD42C8a6)
   * Factory: [0x41E9ac0bfed353c2dE21a980dA0EbB8A464D946A](https://snowtrace.io/address/0x41E9ac0bfed353c2dE21a980dA0EbB8A464D946A)
+
+
+
+* Sei
+  * Config: [0x194941B55555Afd751285B8b792C7538152DeAdd](https://seitrace.com/address/0x194941B55555Afd751285B8b792C7538152DeAdd?chain=pacific-1)
+  * Factory: [0xB438ea246cefA9241305aD62E5D307D014baF7Fa](https://seitrace.com/address/0xB438ea246cefA9241305aD62E5D307D014baF7Fa?chain=pacific-1)
