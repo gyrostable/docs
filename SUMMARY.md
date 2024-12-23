@@ -31,6 +31,7 @@
   * [sGYD Internals](gyroscope-protocol/sgyd-and-reserve-yield-emission/sgyd-internals.md)
   * [Risks](gyroscope-protocol/sgyd-and-reserve-yield-emission/risks.md)
 * [Bridged GYD](gyroscope-protocol/bridged-gyd.md)
+* [Protocol fees](gyroscope-protocol/protocol-fees.md)
 * [Technical Documents](gyroscope-protocol/technical-documents/README.md)
   * [Consolidated price feed](gyroscope-protocol/technical-documents/consolidated-price-feed.md)
 * [Learn more](gyroscope-protocol/learn-more.md)
