@@ -35,9 +35,14 @@ description: '[Last updated 8 December 2023]'
 * `GYD/USDC`: [0xC2AA60465BfFa1A88f5bA471a59cA0435c3ec5c1](https://etherscan.io/address/0xC2AA60465BfFa1A88f5bA471a59cA0435c3ec5c1)
 * `GYD/USDT` [0xfbfaD5fa9E99081da6461F36f229B5cC88A64c63](https://etherscan.io/address/0xfbfaD5fa9E99081da6461F36f229B5cC88A64c63)
 
-## Bootstrapping pool
+## Bootstrapping pools
 
-* `GYD/sDAI`: [0x2191Df821C198600499aA1f0031b1a7514D7A7D9](https://etherscan.io/address/0x2191df821c198600499aa1f0031b1a7514d7a7d9)
+* `Ethereum (GYD/sDAI)`: [0x2191Df821C198600499aA1f0031b1a7514D7A7D9](https://etherscan.io/address/0x2191df821c198600499aa1f0031b1a7514d7a7d9)
+* `Arbitrum (GYD/waUSDCn):` [0x820b69fad931d4b4bf14e70ff234a8390f6a0658](https://arbiscan.io/address/0x820b69fad931d4b4bf14e70ff234a8390f6a0658)
+* `PolygonZKEVM (GYD/USDC.e)`: [0xe26e205ced7ec44de3dded7e63ff01a7cf158c1b](https://zkevm.polygonscan.com/address/0xe26e205ced7ec44de3dded7e63ff01a7cf158c1b)
+* `Gnosis (GYD/sDAI)`: [0x7e7419ebef7171c84409b7a1c3a5d4538c98d4a1](https://gnosisscan.io/address/0x7e7419ebef7171c84409b7a1c3a5d4538c98d4a1)
+* `Avalanche (GYD/stataAvaUSDC)`: [0xab0548a31519a799549e7954d430df5bd01e6b7d](https://snowtrace.io/address/0xab0548a31519a799549e7954d430df5bd01e6b7d)
+* `Polygon (GYD/waUSDCn):` [0x80bdd9a0d9139436bae53597d90ba420c7b677f5](https://polygonscan.com/address/0x80bdd9a0d9139436bae53597d90ba420c7b677f5)
 
 ## Authentication
 
