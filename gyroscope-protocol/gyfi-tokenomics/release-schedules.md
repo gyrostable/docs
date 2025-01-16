@@ -1,6 +1,6 @@
 # Release schedules
 
-<figure><img src="../../.gitbook/assets/GYFI Release (best guess) (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GYFI Release (best guess) (2).svg" alt=""><figcaption></figcaption></figure>
 
 Note:
 
