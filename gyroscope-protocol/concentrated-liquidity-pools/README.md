@@ -10,7 +10,7 @@ description: >-
 
 Gyroscope’s ‘Concentrated Liquidity Pools’ (CLPs) are a class of Automated Market Makers (AMMs) that price the exchange of assets within a defined range. As such, any CLP only provides liquidity for trading activity restricted to this specific region. The goal is to use the pool’s capital efficiently. It is expected that most reserve assets will be stored in CLPs.
 
-**This design has several **_**benefits**_** - as described below. CLPs are currently built on Balancer and include pools with two or three assets:**
+**This design has several&#x20;**_**benefits**_**&#x20;- as described below. CLPs are currently built on Balancer and include pools with two or three assets:**
 
 * _**Pools with two assets**_ - aka Quadratic-CLPs or [2-CLPs](2-clps.md), named after the quadratic invariant curve - are similar to Uniswap v3’s concentrated liquidity pools. But unlike Uniswap, a 2-CLP effectively offers a ‘single tick’, where liquidity is distributed evenly across a single active trading range.
 
