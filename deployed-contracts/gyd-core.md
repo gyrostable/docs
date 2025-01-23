@@ -1,5 +1,5 @@
 ---
-description: '[Last updated 8 December 2023]'
+description: '[Last updated 23 January 2025]'
 ---
 
 # GYD Core
@@ -26,16 +26,22 @@ description: '[Last updated 8 December 2023]'
 
 ## GYD on L2s
 
-* `GYD on Polygon zkEVM`: [0xca5d8f8a8d49439357d3cf46ca2e720702f132b8](https://zkevm.polygonscan.com/address/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8)
+* `GYD on Polygon zkEVM`: [0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8](https://zkevm.polygonscan.com/address/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8)
 * `GYD on Arbitrum`: [0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8](https://arbiscan.io/address/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8)
+* `GYD on Optimism`: [0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8](https://optimistic.etherscan.io/address/0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8)
+* `GYD on Avalanche`: [0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8](https://snowtrace.io/address/0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8)
+* `GYD on Polygon`: [0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8](https://polygonscan.com/address/0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8)
+* `GYD on Base`: [0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8](https://basescan.org/address/0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8)
+* `GYD on Gnosis Chain`: [0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8](https://gnosisscan.io/address/0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8)
 
-## SAMMs
+## GYD Secondary Markets
 
 * `GYD/sDAI`: [0x1CCE5169bDe03f3d5aD0206f6BD057953539DAE6](https://etherscan.io/address/0x1CCE5169bDe03f3d5aD0206f6BD057953539DAE6)
 * `GYD/USDC`: [0xC2AA60465BfFa1A88f5bA471a59cA0435c3ec5c1](https://etherscan.io/address/0xC2AA60465BfFa1A88f5bA471a59cA0435c3ec5c1)
 * `GYD/USDT` [0xfbfaD5fa9E99081da6461F36f229B5cC88A64c63](https://etherscan.io/address/0xfbfaD5fa9E99081da6461F36f229B5cC88A64c63)
+* (and many more, see [https://app.gyro.finance/pools/](https://app.gyro.finance/pools/ethereum/))
 
-## Bootstrapping pools
+## AMOs
 
 * `Ethereum (GYD/sDAI)`: [0x2191Df821C198600499aA1f0031b1a7514D7A7D9](https://etherscan.io/address/0x2191df821c198600499aa1f0031b1a7514d7a7d9)
 * `Arbitrum (GYD/waUSDCn):` [0x820b69fad931d4b4bf14e70ff234a8390f6a0658](https://arbiscan.io/address/0x820b69fad931d4b4bf14e70ff234a8390f6a0658)
@@ -43,6 +49,7 @@ description: '[Last updated 8 December 2023]'
 * `Gnosis (GYD/sDAI)`: [0x7e7419ebef7171c84409b7a1c3a5d4538c98d4a1](https://gnosisscan.io/address/0x7e7419ebef7171c84409b7a1c3a5d4538c98d4a1)
 * `Avalanche (GYD/stataAvaUSDC)`: [0xab0548a31519a799549e7954d430df5bd01e6b7d](https://snowtrace.io/address/0xab0548a31519a799549e7954d430df5bd01e6b7d)
 * `Polygon (GYD/waUSDCn):` [0x80bdd9a0d9139436bae53597d90ba420c7b677f5](https://polygonscan.com/address/0x80bdd9a0d9139436bae53597d90ba420c7b677f5)
+* `Base (GYD/waUSDC):` [0x79FE0750bE76913E83a0f0EB60ba1Ab7FA6FdA5D](https://basescan.org/address/0x79fe0750be76913e83a0f0eb60ba1ab7fa6fda5d)
 
 ## Authentication
 
