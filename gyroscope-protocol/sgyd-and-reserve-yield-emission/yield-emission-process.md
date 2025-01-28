@@ -29,7 +29,7 @@ The following briefly describes these formulas:
 3. This amount is distributed across the different venues according to the following weighting rules:
    * By default, distribution is according to the ratio of time-weighted average GYD holdings for each venue.
    * However, distributions are limited by a cap on APR. APR here relates to the average APR per unit of GYD held in the venues over time across the evaluation period:
-   * The union of all sGYD deployments is limited to sgyd\_max\_apr (currently 20%).
-   * The union of all pools is limited to pools\_max\_apr (currently 4%).
+   * The union of all sGYD deployments is limited to sgyd\_max\_apr (currently 12%).
+   * The union of all pools is limited to pools\_max\_apr (currently 4%; higher for bootstrapping new pools).
    * If only one of these APR caps is tight, the other group of venues may achieve a higher APR because of this.
    * If both APR caps are tight, fewer GYD are emitted that would be without the APR cap; the un-emitted value is retained by the reserve.
