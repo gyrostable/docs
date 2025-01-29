@@ -6,9 +6,9 @@ description: >-
 
 # GYFI Tokenomics
 
-The GYFI governance token is deployed on Ethereum [here](https://etherscan.io/token/0x70c4430f9d98b4184a4ef3e44ce10c320a8b7383).&#x20;
+The GYFI governance token is deployed on Ethereum [here](https://etherscan.io/token/0x70c4430f9d98b4184a4ef3e44ce10c320a8b7383). GYFI can be staked in the Gyroscope governance system for voting power. Other voting power sources exist, consult [Broken link](broken-reference "mention") for further information.
 
-The total supply is 13,700,000. This is currently set to increase at a rate of 2% per year, starting 20 August 2027.
+The total GYFI supply is 13,700,000. This is currently set to increase at a rate of 2% per year, starting 20 August 2027.
 
 As per a community [vote](https://snapshot.box/#/s:gyrodao.eth/proposal/QmeMYwoCCEhSk8E7BNshU2XeSD91RVdLrkkv3mSV2EApTe), 65% of the GYFI token supply is allocated to the community and 35% to FTL Labs (the initial Gyroscope development company).&#x20;
 
