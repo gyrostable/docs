@@ -1,6 +1,8 @@
 # Coingecko
 
-This shall serve as a confirmation for the GYFI token update request.
+This shall serve as a confirmation for the GYFI token update request:
+
+[https://www.coingecko.com/en/coins/gyroscope](https://www.coingecko.com/en/coins/gyroscope)
 
 
 

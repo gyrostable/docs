@@ -39,6 +39,7 @@
   * [Consolidated price feed](gyroscope-protocol/technical-documents/consolidated-price-feed.md)
 * [Learn more](gyroscope-protocol/learn-more.md)
 * [FAQ](gyroscope-protocol/faq/README.md)
+  * [Coinmarketcap](gyroscope-protocol/faq/coinmarketcap.md)
   * [Is there info on the Gamified Testnet?](gyroscope-protocol/faq/is-there-info-on-the-gamified-testnet.md)
   * [Is there a Gyroscope whitepaper?](gyroscope-protocol/faq/is-there-a-gyroscope-whitepaper.md)
   * [How is Gyroscope different?](gyroscope-protocol/faq/how-is-gyroscope-different.md)
