@@ -47,6 +47,7 @@
   * [What are use cases of Gyroscope?](gyroscope-protocol/faq/gyroscope-use-cases.md)
   * [Gyroscope & Academia](gyroscope-protocol/faq/research.md)
   * [Classical FAQ](gyroscope-protocol/faq/classical-faq.md)
+  * [Coingecko](gyroscope-protocol/faq/coingecko.md)
 * [Audit Reports](gyroscope-protocol/audit-reports.md)
 * [Risks](gyroscope-protocol/risks.md)
 
