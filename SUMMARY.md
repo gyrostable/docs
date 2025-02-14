@@ -81,6 +81,7 @@
 
 ## Deployed Contracts
 
+* [GYFI](deployed-contracts/gyfi.md)
 * [Pools](deployed-contracts/pools.md)
 * [GYD Core](deployed-contracts/gyd-core.md)
 * [Governance](deployed-contracts/governance.md)
