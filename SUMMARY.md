@@ -84,7 +84,9 @@
 * [GYFI](deployed-contracts/gyfi.md)
 * [Pools](deployed-contracts/pools.md)
 * [GYD Core](deployed-contracts/gyd-core.md)
-* [Governance](deployed-contracts/governance.md)
+* [Governance](deployed-contracts/governance/README.md)
+  * [L1 Governance](deployed-contracts/governance/l1-governance.md)
+  * [L2 Governance](deployed-contracts/governance/l2-governance.md)
 * [Gyro Proto](gyro-proto/contract-addresses.md)
 
 ***

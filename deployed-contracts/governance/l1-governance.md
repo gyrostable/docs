@@ -1,6 +1,4 @@
-# Governance
-
-## List of deployed contracts
+# L1 Governance
 
 ### Governance Core
 
