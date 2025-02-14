@@ -16,6 +16,7 @@
 * [GYFI Tokenomics](gyroscope-protocol/gyfi-tokenomics/README.md)
   * [Allocations](gyroscope-protocol/gyfi-tokenomics/allocations.md)
   * [Release schedules](gyroscope-protocol/gyfi-tokenomics/release-schedules.md)
+  * [Eligibility](gyroscope-protocol/gyfi-tokenomics/eligibility.md)
 * [Oracles & price feeds](gyroscope-protocol/oracles/README.md)
   * [Consolidated price feed](gyroscope-protocol/oracles/consolidated-price-feed.md)
   * [LP share pricing](gyroscope-protocol/oracles/lp-share-pricing.md)
