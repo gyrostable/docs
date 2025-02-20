@@ -20,7 +20,7 @@ Gyroscope E-CLPs, standing for elliptic concentrated liquidity pools, are a nove
 
 E-CLPs have several advantages over other liquidity pool types:
 
-* E-CLPs are up to 75% more efficient than Stableswap liquidity pools. They greatly improve capital efficiency for liquidity providers (LPs).
+* E-CLPs are usually at least 75% more efficient than Stableswap liquidity pools. They greatly improve capital efficiency for liquidity providers (LPs).
 * E-CLPs are highly customizable. They allow a further degree of flexibility as liquidity no longer needs to be spread evenly within uniform price bounds.
 * E-CLPs don’t require active position management and adapt automatically to yield-accruing assets. The pool deployer takes on responsibility of calibrating and establishing trading parameters upon launch.
 
