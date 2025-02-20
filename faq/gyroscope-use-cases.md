@@ -6,11 +6,11 @@ description: Exemplary use cases of Gyroscope infrastructure
 
 ## Trading Hub Asset
 
-The concentrated liquidity in the GYD Trading Pools, made possible by [Gyroscope's Dynamic Stability Mechanism](../stablecoin/autonomous-pricing/pamm.md) (DSM) design, makes Gyro stablecoin liquidity exceptional in the stablecoin space.
+The concentrated liquidity in the GYD Trading Pools, made possible by [Gyroscope's Dynamic Stability Mechanism](../gyd/how-it-works/autonomous-pricing/pamm.md) (DSM) design, makes Gyro stablecoin liquidity exceptional in the stablecoin space.
 
 &#x20;For this reason, a natural use case of Gyroscope is as a trading hub asset. Like USDT predominantly today, many low slippage trades can be made possible by connecting through GYD Trading Pools within the Balancer v2 trading ecosystem, where the first GYD Trading Pools will be deployed. Early liquidity provision on the GYD Trading Pools at launch can be bootstrapped using liquidity mining.
 
-<figure><img src="../../.gitbook/assets/SAMM and Reserve Pools Graphic.png" alt="Stylized visualization of the Gyroscope stablecoin trading network"><figcaption><p>Stylized visualization of the Gyroscope stablecoin trading network</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/SAMM and Reserve Pools Graphic.png" alt="Stylized visualization of the Gyroscope stablecoin trading network"><figcaption><p>Stylized visualization of the Gyroscope stablecoin trading network</p></figcaption></figure>
 
 ## More Efficient Collateral for DeFi
 

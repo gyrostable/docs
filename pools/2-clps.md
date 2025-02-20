@@ -16,7 +16,7 @@ Given quantities of real reserves (x,y) in the pool and the pool’s pricing ran
 
 **Compared with “x \* y = k” (i.e., constant product or Uniswap v2) AMMs, a 2-CLP can better utilize the existing liquidity.** Instead of spreading liquidity across the entire range of prices that could in theory occur - ‘from zero to infinity’ - _a 2-CLP focuses on a small range of prices by adding price bounds_ which are implemented using ‘virtual reserves’. Virtual reserves can be understood as the reserves that would be necessary to reach the depth of a concentrated liquidity position using a standard unlimited range pool.
 
-<figure><img src="../../.gitbook/assets/2-clp-v2 (1) (2).gif" alt="Stylized representation of capital efficiency gains of 2-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 2-CLPs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2-clp-v2 (1) (2).gif" alt="Stylized representation of capital efficiency gains of 2-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 2-CLPs</p></figcaption></figure>
 
 {% hint style="info" %}
 The notion of virtual reserves was first introduced in the YieldSpace whitepaper [\[3\]](2-clps.md#notes) and Uniswap v3 first introduced the concept of concentrated liquidity pools [\[4\]](2-clps.md#notes).&#x20;
@@ -62,8 +62,8 @@ One facet of adverse selection risk for any AMM pool, including CLPs: LPs who jo
 
 To read about the mathematical specification and implementation, see the below resources
 
-{% content-ref url="../technical-documents/" %}
-[technical-documents](../technical-documents/)
+{% content-ref url="../gyd/technical-documents.md" %}
+[technical-documents.md](../gyd/technical-documents.md)
 {% endcontent-ref %}
 
 ## Notes

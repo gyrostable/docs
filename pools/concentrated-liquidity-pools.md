@@ -4,7 +4,7 @@ description: >-
   range
 ---
 
-# Concentrated Liquidity Pools
+# Overview
 
 ## Description
 
@@ -18,7 +18,7 @@ Gyroscope’s ‘Concentrated Liquidity Pools’ (CLPs) are a class of Automated
 2-CLPs are best understood as a simplified design of Uniswap v3. Specializing the design for the most-traded ranges of included assets enables a pool with (i) high capital efficiency, (ii) high gas-efficiency, and (iii) a simple user-experience.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/2-clp-v2 (2).gif" alt="Stylized representation of capital efficiency gains of 2-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 2-CLPs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2-clp-v2 (2).gif" alt="Stylized representation of capital efficiency gains of 2-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 2-CLPs</p></figcaption></figure>
 
 * _**Pools with three assets**_ - aka Cubic-CLPs or [3-CLPs](3-clps.md) support three assets and are functionally best understood as an extension of 2-CLPs. As a high-level summary, they amplify the benefits of 2-CLPs.
 
@@ -26,15 +26,15 @@ Gyroscope’s ‘Concentrated Liquidity Pools’ (CLPs) are a class of Automated
 An intuitive way of thinking about 3-CLPs is to imagine a pool that combines two of the most impactful AMM innovations into one: multi-asset pools and concentrated liquidity.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/3-CLP-v4.gif" alt="Stylized representation of capital efficiency gains of 3-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 3-CLPs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3-CLP-v4.gif" alt="Stylized representation of capital efficiency gains of 3-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 3-CLPs</p></figcaption></figure>
 
-* _**E-CLPs**_ - aka [Elliptic-CLPs](./)[ ](e-clps.md)support asymmetric concentrated liqudity for two assets. They provide a new type of concentrated liquidity that allows highly flexible and asymmetric liquidity profiles in a single pool position.
+* _**E-CLPs**_ - aka [Elliptic-CLPs](concentrated-liquidity-pools.md)[ ](e-clps.md)support asymmetric concentrated liqudity for two assets. They provide a new type of concentrated liquidity that allows highly flexible and asymmetric liquidity profiles in a single pool position.
 
-<figure><img src="../../.gitbook/assets/E-CLP-liquidity-density-animated-chart-v6.gif" alt=""><figcaption><p>The E-CLP's asymmetric concentrated liquidity improves capital efficiency over StableSwap by putting liquidity only where it is needed.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/E-CLP-liquidity-density-animated-chart-v6.gif" alt=""><figcaption><p>The E-CLP's asymmetric concentrated liquidity improves capital efficiency over StableSwap by putting liquidity only where it is needed.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Rate-providers-v8.gif" alt=""><figcaption><p>E-CLP rate providers make yield-bearing asset pools more efficient by automating liquidity management and mitigating LVR.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Rate-providers-v8.gif" alt=""><figcaption><p>E-CLP rate providers make yield-bearing asset pools more efficient by automating liquidity management and mitigating LVR.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Boosted-E-CLPs (1).gif" alt=""><figcaption><p>Rehype pools combine multiple yield sources in a single pool.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Boosted-E-CLPs (1).gif" alt=""><figcaption><p>Rehype pools combine multiple yield sources in a single pool.</p></figcaption></figure>
 
 ## **Users of CLPs**
 

@@ -38,7 +38,7 @@ The region where all colors overlap is the feasible pricing region - these are c
 * _**Gas efficiency**_: Trading among three assets is more gas efficient than connecting two trades through two different 2-CLPs.&#x20;
 * _**User experience**_: 3-CLPs remain comparatively simple in architecture and user experience.
 
-<figure><img src="../../.gitbook/assets/3-CLP-v4 (1).gif" alt="Stylized representation of capital efficiency gains of 3-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 3-CLPs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3-CLP-v4 (1).gif" alt="Stylized representation of capital efficiency gains of 3-CLPs"><figcaption><p>Stylized representation of capital efficiency gains of 3-CLPs</p></figcaption></figure>
 
 ## Risks of 3-CLPs&#x20;
 
@@ -62,8 +62,8 @@ For example, if the price of one of the assets drops to a sufficiently low level
 
 To read about the mathematical specification and implementation, see the below resources
 
-{% content-ref url="../technical-documents/" %}
-[technical-documents](../technical-documents/)
+{% content-ref url="../gyd/technical-documents.md" %}
+[technical-documents.md](../gyd/technical-documents.md)
 {% endcontent-ref %}
 
 ## Notes

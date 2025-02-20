@@ -40,7 +40,7 @@ The reserve structure is able to evolve over time as the on-chain asset space ev
 
 ## Technical implementation
 
-The reserve is implemented as a series of vaults that are designed for risk stratification. Each vault deploys assets according to a strategy decided by decentralized governance. The first vault strategy is deploying assets into Gyroscope's [Concentrated Liquidity Pools](../concentrated-liquidity-pools/) (CLPs). This is the only strategy implemented at the moment.
+The reserve is implemented as a series of vaults that are designed for risk stratification. Each vault deploys assets according to a strategy decided by decentralized governance. The first vault strategy is deploying assets into Gyroscope's [Concentrated Liquidity Pools](../../pools/concentrated-liquidity-pools.md) (CLPs). This is the only strategy implemented at the moment.
 
 Not only will a significant amount of reserve assets be stored in CLPs, but CLPs are also crucial for building out the liquidity network in the Balancer ecosystem. CLPs are AMM pools that price assets within the pool in a predefined price range. As such, any CLP only provides liquidity for trading activity restricted to this specific region.
 

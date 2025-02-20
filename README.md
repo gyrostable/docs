@@ -6,19 +6,15 @@ coverY: 0
 
 # tldr: What is Gyroscope
 
-Gyroscope is a decentralized stablecoin featuring a novel all-weather stablecoin design combined with more efficient stablecoin liquidity pools.
+Gyroscope is a non-custodial liquidity engine that combines more efficient passive concentrated liquidity and stablecoin yield.
 
-## Gyro Dollars
+Its governance token is GYFI.
 
-Gyroscope’s stablecoin Gyro Dollars (GYD) is designed to be fully backed by a basket of assets with fundamental innovations in risk control built in at the protocol level. GYD’s innovations aim to segment and contain risks from across the asset space and include:
+Gyroscope’s novel revenue model captures both high organic swap fees from volatile pairs and stablecoin yields, unlocking efficiencies that set it apart from traditional DEX or stablecoin models.&#x20;
 
-* Automated risk diversification rules,
-* Optimized minting and redemption bonding curves that guide the protocol on how to use reserve assets to maintain stability,
-* A new resilient oracle and circuit breaker system that handles stress.
+This is a new revenue playbook. The data, available [here](https://dune.com/gyro_finance/gyroscope#total-ecosystem-protocols-revenue), speaks for itself.
 
-GYD is designed to protect against the main risks of holding stablecoins, placing risk control at a high degree of automation in a decentralized, non-custodial way. It serves as a principled risk control layer for stablecoin holders. GYD, which aims to form the safest on-chain stable asset, implements these design principles.
-
-## E-CLPs
+## Pools
 
 Gyroscope E-CLPs, standing for elliptic concentrated liquidity pools, are a novel liquidity pool type that enables asymmetric concentration of liquidity. E-CLPs focalize trading of assets along the curve of an ellipse.
 
@@ -29,6 +25,16 @@ E-CLPs have several advantages over other liquidity pool types:
 * E-CLPs don’t require active position management and adapt automatically to yield-accruing assets. The pool deployer takes on responsibility of calibrating and establishing trading parameters upon launch.
 
 E-CLPs package concentrated liquidity into a customizable and passive form.
+
+## Gyro Dollars
+
+Gyroscope’s stablecoin Gyro Dollars (GYD) is designed to be fully backed by a basket of assets with fundamental innovations in risk control built in at the protocol level. GYD’s innovations aim to segment and contain risks from across the asset space and include:
+
+* Automated risk diversification rules,
+* Optimized minting and redemption bonding curves that guide the protocol on how to use reserve assets to maintain stability,
+* A new resilient oracle and circuit breaker system that handles stress.
+
+GYD is designed to protect against the main risks of holding stablecoins, placing risk control at a high degree of automation in a decentralized, non-custodial way. It serves as a principled risk control layer for stablecoin holders. GYD, which aims to form the safest on-chain stable asset, implements these design principles.
 
 ## GYD and E-CLPs
 
