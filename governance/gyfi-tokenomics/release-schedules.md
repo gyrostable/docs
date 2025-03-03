@@ -9,5 +9,7 @@ Note:
 * An updated chart will be provided should schedules change substantially.
 * The effects of any future allocation of the FTL Labs token reserve are not shown on this chart as they are currently not known. The chart will be updated through time.&#x20;
 
+Starting Sun Mar 04 2029 00:00:00 GMT+0000, the total GYFI supply is set to inflate at 2% per year.&#x20;
+
 Disclaimer: this documentation primarily summarises decisions that have been taken by the Gyroscope DAO on the [Gyroscope snapshot](https://snapshot.org/#/s:gyrodao.eth). For further information please refer to the original sources.
 
