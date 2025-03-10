@@ -32,7 +32,7 @@
     * [Limiting Upgradeability](governance/how-it-works/optimistic-approval/limiting-upgradeability.md)
 * [Governance process](governance/governance-process.md)
 * [GYFI Tokenomics](governance/gyfi-tokenomics/README.md)
-  * [Allocations](governance/gyfi-tokenomics/allocations.md)
+  * [Token Allocation](governance/gyfi-tokenomics/token-allocation.md)
   * [Release schedules](governance/gyfi-tokenomics/release-schedules.md)
   * [Eligibility](governance/gyfi-tokenomics/eligibility.md)
 
