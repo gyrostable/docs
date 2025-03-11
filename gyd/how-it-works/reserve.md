@@ -14,6 +14,13 @@ To illustrate why this is important, consider that, for example, LP positions in
 This is commonly referred to as 'composability risk' or also 'contagion risk'.
 {% endhint %}
 
+There are two forms of Gyroscope reserves currently:
+
+* AMOs (algorithmic market operations) hold reserves in GYD pools alongside set amounts of unissued GYD, using specially designed E-CLPs. Issuance and redemption from these reserves are seamless with swaps and helps bootstrap new liquidity. As unissued GYD are bought from these pools, they become issued and enter circulation, backed by the asset that entered the pool.
+* DSM (dynamic stability mechanism) reserves enforce extra protections (e.g., diversification rules, oracle protections, and smart contract risk mitigations. DSM reserves are also redeemable but require more sophisticated interaction with the protocol's balance sheet.
+
+In the early growth phase, most reserves are held in AMOs to facilitate growth and liquidity. AMOs can be transitioned into DSM reserves as GYD scales with a balancing level in AMOs.
+
 ## Functional implementation
 
 In order to stratify risks, the Gyroscope reserve is separated into lower-level vaults (circles in the figure below). This design is aimed at ensuring that risks are contained within each vault, with little overlap of asset configurations between the vaults.

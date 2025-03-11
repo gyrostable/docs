@@ -28,7 +28,7 @@ E-CLPs package concentrated liquidity into a customizable and passive form.
 
 ## Gyro Dollars
 
-Gyroscope’s stablecoin Gyro Dollars (GYD) is designed to be fully backed by a basket of assets with fundamental innovations in risk control built in at the protocol level. GYD’s innovations aim to segment and contain risks from across the asset space and include:
+Gyroscope’s stablecoin Gyro Dollars (GYD) is designed to be superliquid and all-weather. It is built to be fully backed by a basket of assets with fundamental innovations in risk control built in at the protocol level. GYD’s innovations aim to segment and contain risks from across the asset space and include:
 
 * Automated risk diversification rules,
 * Optimized minting and redemption bonding curves that guide the protocol on how to use reserve assets to maintain stability,
@@ -47,6 +47,6 @@ GYD and E-CLPs together aim to achieve:
 
 Longer term, LP positions in LST E-CLPs could be integrated into a leverage mechanism for GYD. This would allow GYD to be borrowed against the highly efficient yield-bearing collateral type arising from E-CLPs.
 
-Lastly, GYD is launched with a special ‘bootstrapping E-CLP’, implemented at the protocol level, which provides an initial simplified way to acquire GYD. The bootstrapping pool provides a pre-set amount of GYD that can be ‘minted’ against sDAI as a reserve asset by swapping through the pool. This is provided as a more straightforward alternative to minting directly against reserve assets, which is a complex process expected to be undertaken by sophisticated market makers in the future. sDAI reserves from the bootstrapping pool will later be unwound into the wider Gyroscope reserve.
+Lastly, GYD is launched with a special AMO pools, implemented at the protocol level, which help to bootstrap GYD liquidity in early stages and new markets. The bootstrapping pool provides a pre-set amount of GYD that can be issued against yield-bearing stablecoins as a reserve asset by swapping through the pool. This is provided as a more straightforward alternative to minting directly against reserve assets, which is a complex process expected to be undertaken by sophisticated market makers in the future.
 
 \

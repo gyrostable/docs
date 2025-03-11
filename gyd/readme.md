@@ -14,17 +14,13 @@ If there is anything unclear or out of date, please submit a pull request to the
 [Chinese](https://darktu.gitbook.io/gyroscope/) | [Spanish](https://jbaron.gitbook.io/gyroscope/informacion-general/introduccion) | [Russian](https://glebsh111.gitbook.io/gyroscope-protocol/obzor-gyroscope/vvedenie) | [Japanese](https://mozuku.gitbook.io/jairosukpupurotokoru/) | other
 {% endhint %}
 
-## The Gyroscope protocol
+## The Gyroscope stablecoin protocol
 
-Gyroscope's mission is to build robust public infrastructure for DeFi. The central piece is a fully-backed stablecoin with all-weather reserves and autonomous price bounding:
+Gyroscope's mission is to build robust public infrastructure for DeFi. A central piece is a fully-backed stablecoin designed to be superliquid and all-weather:
 
 * **A fully backed stablecoin**: the Gyroscope stablecoin aims at a long-term reserve ratio of 100%, where every unit of stablecoin is backed by 1 USD worth of collateral.&#x20;
-* **An all-weather reserve**: the reserve is a basket of protocol-controlled assets that jointly collateralize the issued stablecoin. Initially most assets will be other stablecoins. The reserve aims to diversify all risks in DeFi to the greatest extent possible. It considers more than just price risk, but also censorship, regulatory, counterparty, oracle and governance risks.&#x20;
+* **An all-weather reserve**: the reserve is a basket of protocol-controlled assets that jointly collateralize the issued stablecoin. Initially most assets will be other stablecoins. DSM reserves aims to diversify all risks in DeFi to the greatest extent possible. It considers more than just price risk, but also censorship, regulatory, counterparty, oracle and governance risks. AMO reserves aim to bootstrap liquidity in early stages and new markets for GYD.
 * **Autonomous price bounding**: Prices for minting and redeeming stablecoins are set autonomously to balance the goal of maintaining a tight peg with the goal of long-term viability of the project in the face of short-term crises.
-
-{% hint style="info" %}
-The Gyroscope Protocol will be launched on Ethereum. The [Gyro Proto system](broken-reference) is now live for testing purposes on Polygon mainnet. Gyroscope's [Concentrated Liquidity Pools](../pools/concentrated-liquidity-pools.md) (CLPs) are also live with asset caps.
-{% endhint %}
 
 ## Core stability mechanisms
 
