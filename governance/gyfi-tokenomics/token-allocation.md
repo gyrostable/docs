@@ -1,13 +1,13 @@
 # Token Allocation
 
-<figure><img src="../../.gitbook/assets/chart (2) (2).svg" alt=""><figcaption><p>Note this chart assumes that all users choose GIP-1 Option 3, the longest lockup for the largest boost to their airdrop and therefore shows the maximum theoretically available allocation to the 'DAO - Initial Airdrop' category. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/chart (3) (1).svg" alt=""><figcaption></figcaption></figure>
 
 #### DAO - 65% of the GYFI supply, as follows:
 
 * **DAO Initial Service Providers.** 2.25% to be held by service providers to the DAO (including marketing and trading firms) as per [GIP-3](https://snapshot.box/#/s:gyrodao.eth/proposal/0xf47755bd150414d540c6cb16f4a1e2e43097b72b09ebccc7113be8a128e4e5cc). This is an initial amount and the allocation may be increased as a result of further DAO votes.
-* **DAO Initial Airdrop.** Up to 15% to be distributed from the DAO to ecosystem participants through an initial airdrop, assuming that all users choose [GIP-1 Option 3](https://snapshot.box/#/s:gyrodao.eth/proposal/0xbd52d92a6972cd565abb24c79de9f5296258e1dc47374025966e8438c9ac11ce). Fewer users choosing Option 3 will result in a lower overall allocation, with that allocation instead remaining in the DAO Treasury.
+* **DAO Initial Airdrop.** Up to x% (will be updated at TGE) to be distributed from the DAO to ecosystem participants through an initial airdrop, assuming that all users choose [GIP-1 Option 3](https://snapshot.box/#/s:gyrodao.eth/proposal/0xbd52d92a6972cd565abb24c79de9f5296258e1dc47374025966e8438c9ac11ce). Fewer users choosing Option 3 will result in a lower overall allocation, with that allocation instead remaining in the DAO Treasury.
 * **DAO Gyroscope Foundation.** 15% to be held by the Gyroscope Foundation to support the ecosystem.
-* **DAO Treasury.** At least 32.75% to be allocated to the DAO Treasury. This amount will be larger if more users choose [GIP-1](https://snapshot.box/#/s:gyrodao.eth/proposal/0xbd52d92a6972cd565abb24c79de9f5296258e1dc47374025966e8438c9ac11ce) Options 1 or 2 (the chart assumes all choose Option 3) (see also [release-schedules.md](release-schedules.md "mention")). The pie chart above assumes that all users choose Option 3, resulting in the largest overall Initial Airdrop allocation and minimizing the DAO Treasury allocation.
+* **DAO Treasury.** At most 47.75% to be allocated to the DAO Treasury (will be reduced by airdrop amount).&#x20;
 
 **FTL Labs - 35% of the GYFI supply, as follows:**
 
