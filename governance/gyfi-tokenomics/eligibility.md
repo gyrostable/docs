@@ -8,4 +8,6 @@ Eligibility for GYFI was voted on by the Gyroscope DAO in a series of Gyroscope 
 * **Founding Member NFT holders**. [GIP-2](https://snapshot.box/#/s:gyrodao.eth/proposal/0x54a6037539434ee48c29945d71537648f45aca276c345209a10e82de10a1b69a) established that Founding Member NFT holders would be able to claim GYFI, with the amount dependent on the rarity of their NFT.&#x20;
 * **Galxe participants**. [GIP-2](https://snapshot.box/#/s:gyrodao.eth/proposal/0x54a6037539434ee48c29945d71537648f45aca276c345209a10e82de10a1b69a) established that participants in a Gyroscope Galxe campaign would be eligible to claim some GYFI.&#x20;
 
+In total, about 12k addresses are eligible for GYFI.
+
 Other categories may be added in due course - the window is open for further airdrops to active users into the future. Of course if any such airdrop is considered in the future it should take into account sybil risks.
