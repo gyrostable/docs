@@ -1,5 +1,7 @@
 # Release schedules
 
+Note: amounts on this page should be considered (best effort) approximations and are subject to change. Not financial advice.&#x20;
+
 <figure><img src="../../.gitbook/assets/Insiders unlocked supply (upper bound on circulating supply).svg" alt=""><figcaption></figcaption></figure>
 
 ## DAO unlock scenarios
@@ -12,7 +14,9 @@ Thanks to [GIP-1](https://snapshot.box/#/s:gyrodao.eth/proposal/0xbd52d92a6972cd
 
 Therefore the GYFI unlock schedule and circulating supply at launch depend on how many users choose each option.&#x20;
 
+<table data-full-width="true"><thead><tr><th width="294">Scenario</th><th width="199">Circulating GYFI at launch</th><th>Eventual size of initial airdrop (after unlocks)</th></tr></thead><tbody><tr><td>(A) All users choose Option 1 (maximum circulating supply at launch, minimum eventual size of initial airdrop)</td><td>5.69%</td><td>6.12%</td></tr><tr><td>(B) Some users choose each option. 30% of GYFI choose Option 1, 15% choose Option 2, 55% choose Option 3</td><td>2.45%</td><td>11.52%</td></tr><tr><td>(C) All users choose Option 3 (minimum circulating supply at launch, maximum eventual size of initial airdrop)</td><td>1.02%</td><td>15.27%</td></tr></tbody></table>
 
+Note: amounts are indicative approximations and may vary. Figures do not take into account the 'whale' threshold, where the largest SPIN holders are only able to claim up to 10,000 GYFI as a liquid amount, with the rest subject to a release schedule. The effect of this will be to redice the circulating supply at launch. Not financial advice.&#x20;
 
 ### Scenario A
 

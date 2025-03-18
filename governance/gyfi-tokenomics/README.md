@@ -28,4 +28,10 @@ For eligible recipients, the amount of GYFI initially liquid at TGE depends on h
 * Option 2: lock up GYFI for 9 months and receive 40% more GYFI than Option 1.
 * Option 3: lock up GYFI for 18 months and get 150% more GYFI than Option 1.
 
+Allocations above 10k GYFI are subject to an additional 6-months linear vesting (but only for the portion above 10k GYFI).
+
 Disclaimer: this documentation primarily summarizes decisions that have been taken by the Gyroscope DAO on the [Gyroscope snapshot](https://snapshot.org/#/s:gyrodao.eth). For further information please refer to the original sources.
+
+The initial airdrop is based on a SPIN snapshot taken on 14 March 2025. SPIN points will still accrue and will be convertible to GYFI at the same amount per SPIN in a subsequent distribution. SPIN rates per pool may adapt with the market with any changes made clear in the UI.
+
+Special note for multisig wallets: airdrop claims are on Base. You will need the multisig to be set up on Base to claim. For most Safes, it is possible to create a Safe with the same address on Base. If you are not able to do this with your Safe, reach out in Discord and the team can assist in a custom way.
