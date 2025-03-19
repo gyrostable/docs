@@ -24,9 +24,9 @@ As per a community [vote](https://snapshot.box/#/s:gyrodao.eth/proposal/QmeMYwoC
 
 For eligible recipients, the amount of GYFI initially liquid at TGE depends on how many users choose each [GIP-1](https://snapshot.box/#/s:gyrodao.eth/proposal/0xbd52d92a6972cd565abb24c79de9f5296258e1dc47374025966e8438c9ac11ce) boosted lockup option. The options are:
 
-* Option 1: fully-liquid GYFI tokens.
-* Option 2: lock up GYFI for 9 months and receive 40% more GYFI than Option 1.
-* Option 3: lock up GYFI for 18 months and get 150% more GYFI than Option 1.
+1. **Option 1**: fully-liquid GYFI tokens. Any user will be able to convert their SPIN to GYFI at a rate of 1,066 SPIN per GYFI. A table of APRs implied by different FDVs is provided below for reference. There will be no vesting of tokens up to a cap. The cap is set high so that it only affects the very largest SPIN holders. This is standard in most projects.
+2. **Option 2**: lock up GYFI for 9 months and receive 40% more GYFI than Option 1. The locked tokens will start to unlock immediately over the course of 9 months linearly.
+3. **Option 3**: lock up GYFI for 18 months and get 150% more GYFI than Option 1. There will be a 9 month cliff, so that users receive no liquid tokens before month 9 and then tokens linearly unlock from month 10 onwards.
 
 Allocations above 10k GYFI are subject to an additional 6-months linear vesting (but only for the portion above 10k GYFI).
 
