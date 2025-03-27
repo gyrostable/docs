@@ -2,8 +2,6 @@
 
 {% embed url="https://www.youtube.com/watch?v=jPmPbnYT07A" %}
 
-
-
 ## **Introduction**
 
 Whereas projects typically rely on data feeds from an oracle provider, such as Chainlink, the Consolidated Price Feed (CPF) design layers and cross-references different oracle and on-chain data sources, while additionally incorporating circuit breakers.
@@ -79,6 +77,8 @@ In principle, further on-chain information can be incorporated into the median t
 {% endhint %}
 
 
+
+<figure><img src="../../../.gitbook/assets/Consolidated-Price-Feed-Animation.gif" alt=""><figcaption></figcaption></figure>
 
 ## Advantages
 
