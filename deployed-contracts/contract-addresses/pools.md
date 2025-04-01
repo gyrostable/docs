@@ -57,3 +57,9 @@
 * Sei
   * Config: [0x194941B55555Afd751285B8b792C7538152DeAdd](https://seitrace.com/address/0x194941B55555Afd751285B8b792C7538152DeAdd?chain=pacific-1)
   * Factory: [0xB438ea246cefA9241305aD62E5D307D014baF7Fa](https://seitrace.com/address/0xB438ea246cefA9241305aD62E5D307D014baF7Fa?chain=pacific-1)
+
+
+
+* Sonic
+  * Config: [0xEeceE50a4333C8B8a8f76c81b6092477AE8Ea81b](https://sonicscan.org/address/0xEeceE50a4333C8B8a8f76c81b6092477AE8Ea81b)
+  * Factory: [0x5364296D19d453D73f84a94e78681A430e620c5f](https://sonicscan.org/address/0x5364296d19d453d73f84a94e78681a430e620c5f)
