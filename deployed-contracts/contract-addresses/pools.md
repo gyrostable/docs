@@ -63,3 +63,13 @@
 * Sonic
   * Config: [0xEeceE50a4333C8B8a8f76c81b6092477AE8Ea81b](https://sonicscan.org/address/0xEeceE50a4333C8B8a8f76c81b6092477AE8Ea81b)
   * Factory: [0x5364296D19d453D73f84a94e78681A430e620c5f](https://sonicscan.org/address/0x5364296d19d453d73f84a94e78681a430e620c5f)
+
+
+
+## Fees Receiver
+
+Gyroscope's fees receiver on each chain is 0xA01ba17778A860EC92053325d0de4022240ceeA4
+
+Fees received here are protocol fees that are ultimately under governance control. This contract also serves as a holding place for other DAO assets, such as some cross-chain GYD incentives.
+
+Balancer's fees receiver address on each chain is 0xce88686553686DA562CE7Cea497CE749DA109f9F
