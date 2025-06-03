@@ -9,6 +9,7 @@
 * [2-CLPs](pools/2-clps.md)
 * [3-CLPs](pools/3-clps.md)
 * [E-CLPs](pools/e-clps.md)
+* [Dynamic CLPs](pools/dynamic-clps.md)
 * [Rehype E-CLPs](pools/rehype-e-clps.md)
 * [Technical documents](pools/technical-documents.md)
 
