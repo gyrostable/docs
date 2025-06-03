@@ -10,7 +10,7 @@
 * [3-CLPs](pools/3-clps.md)
 * [E-CLPs](pools/e-clps.md)
 * [Dynamic CLPs](pools/dynamic-clps.md)
-* [Rehype E-CLPs](pools/rehype-e-clps.md)
+* [Rehype CLPs](pools/rehype-clps.md)
 * [Technical documents](pools/technical-documents.md)
 
 ## Governance
