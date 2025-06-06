@@ -8,6 +8,7 @@ The bridge infrastructure and sGYD have been audited by Nethermind.&#x20;
 
 ## Latest audit reports
 
+* [**Security Review: Dynamic E-CLP**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM_0526_Gyroscope-dynamic-eclp.pdf) - Nethermind - 06/3/2024
 * [**Security Review: GYFI**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM0440_GYFI_FINAL.pdf) - Nethermind - 3/3/2025
 * [**Security Review: Bridges**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM0255_GYROSCOPE%20_FINAL.pdf) - Nethermind - 25/6/2024
 * [**Security Review: sGYD**](https://github.com/gyrostable/audit-reports/blob/main/Nethermind/NM0264_GYRO_SGYD.pdf) - Nethermind - 18/7/2024
