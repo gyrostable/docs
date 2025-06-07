@@ -10,6 +10,8 @@ Dynamic pools work with any underlying Gyro CLP and work on Balancer v2 or v3:
 * E-CLPs allow nuanced liquidity profiles in a dynamic form
 * 2-CLPs are the most gas-efficient option
 
+<figure><img src="../.gitbook/assets/Dynamic-Pools-Animation.gif" alt=""><figcaption></figcaption></figure>
+
 ## Description of Dynamic CLPs
 
 Dynamic CLPs build on top of vanilla CLPs with the use of a dynamic rate provider that allows a pool to track the market as the pool moves out of range and continue to provide liquidity. They are designed in particular for key volatile pairs, such as ETH/BTC/USD and FX pairs and other highly liquid pairs.
@@ -24,7 +26,7 @@ The feed for a dynamic rate provider will typically be a Chainlink feed, but it 
 
 The stored value of a dynamic rate provider can only be updated when the linked pool is out of range, and then the rate is updated such that the pool is just at the respective edge of its price range. In this case, LPers do not incur an arbitrage loss through the update.
 
-<figure><img src="../.gitbook/assets/Dynamic-Pools-Animation.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Dynamic-Pools-Explainer-v5.gif" alt=""><figcaption></figcaption></figure>
 
 ## Keeper role
 
